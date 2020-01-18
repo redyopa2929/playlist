@@ -524,6 +524,14 @@ http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv9.co.id/images/foot-icon.png" group-title="RELIGI",TV9
 http://202.80.222.178:80/000001/2/ch00000000000000001522/1001.m3u8?IASHttpSessionId=SLB242022019112522481628564864&ztecid=ch00000000000000001522&bandwidth=491305&ispcode=1&timeformat=local&channel=ch00000000000000001522&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNjQvMjU2Lm0zdTg%3D&zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
+#Update sport
+
+#EXTINF:-1 group-title="SPORTS", Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1 group-title="SPORTS", Liga Indonesia
+https://dl.dropbox.com/s/syg0ltgpd8r1650/usesport.m3u8?dl=0
+
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",TRUE PREMIER HD1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 
