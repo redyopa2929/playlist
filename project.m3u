@@ -536,9 +536,14 @@ https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",TRUE PREMIER HD2(SD)
 https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
 
+#EXTINF:-1 group-title="SPORTS",Ad sport 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 group-title="SPORTS",Ad Sport 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1111842868908318721/lMvLaebw_400x400.jpg" group-title="SPORTS",TVRI SPORTS
-http://id1.indostreamingtv.com/live/tvri/index.m3u8
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fightsports.tv/wp-content/uploads/fightsports280.jpg" group-title="SPORTS",Fight Sport
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
