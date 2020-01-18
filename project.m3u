@@ -526,7 +526,7 @@ http://202.80.222.178:80/000001/2/ch00000000000000001522/1001.m3u8?IASHttpSessio
 
 #Update sport
 
-#EXTINF:-1 group-title="SPORTS", BEIN SPORT BETA
+#EXTINF:-1 group-title="SPORTS", =====BEIN SPORT BETA======
 https://google.com
 #EXTINF:-1 group-title="SPORTS", Bein Sports 1
 http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/28750
@@ -566,7 +566,7 @@ http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5244
 http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5245
 #EXTINF:-1 group-title="SPORTS", Bein Sports 16
 http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5246
-#EXTINF:-1 group-title="SPORTS", BEIN SPORT BETA
+#EXTINF:-1 group-title="SPORTS", =====BEIN SPORT BETA=====
 https://google.com
 #EXTINF:-1 group-title="SPORTS", MNC SPORT
 http://202.80.222.183/000001/2/ch00000090990000001753/index.m3u8?virtualDomain=000001.live_hls.zte.com
