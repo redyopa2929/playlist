@@ -526,6 +526,9 @@ http://202.80.222.178:80/000001/2/ch00000000000000001522/1001.m3u8?IASHttpSessio
 
 #Update sport
 
+#EXTINF:-1 group-title="SPORTS", MNC SPORT
+http://202.80.222.183/000001/2/ch00000090990000001753/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
 #EXTINF:-1 group-title="SPORTS",La Liga SD
 http://ott-cdn.ucom.am/s81/03.m3u8
 
