@@ -303,12 +303,19 @@ http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass
 #EXTINF:-1 tvg-id="9ea370ce73cd5a22f3814b2e2ac02bbe" group-title="INDIHOME",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC241A718EFB00115CB1F94794&profile=pass
+#EXTINF:-1 group-title="INDIHOME",HBO Family ID
+http://203.207.56.228/live/iptv004.m3u8
+
+#EXTINF:-1 group-title="INDIHOME",HBO Hits ID
+http://203.207.56.228/live/iptv007.m3u8
+
+
 #EXTINF:-1 tvg-id="de8e3602ee1be5612d6121b293501f99" group-title="INDIHOME",HBO HD
-http://203.153.218.28:9981/stream/channelid/37129950?ticket=DBCF024D9A3E4F58C90E2EBA7BB30FB700306650&profile=pass
+http://203.207.56.228/live/iptv005.m3u8
 #EXTINF:-1 tvg-id="97187cf98cc3a3d2419955eea35c1bf5" group-title="INDIHOME",HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
 #EXTINF:-1 tvg-id="32105947315ce3717a05d57aa09ea673" group-title="INDIHOME",HBO Signature
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=E20CE4FFE9600A12851300CCFE97AAD81D0B030D&profile=pass
+http://203.207.56.228/live/iptv006.m3u8
 #EXTINF:-1 tvg-id="c2c6596f8e7796a5b4ecd8ea7cde9d74" group-title="INDIHOME",History Channel
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=A6B5FCF4BEA85CDC157E4CF8DAE0FE22C9FA8432&profile=pass
 #EXTINF:-1 tvg-id="4c2f958f0b239f4721d18b87c42912f9" group-title="INDIHOME",Indosiar
