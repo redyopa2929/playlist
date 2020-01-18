@@ -1,0 +1,70 @@
+#EXTM3U
+
+#EXTINF:-1,TVRI
+https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream03/streamPlaylist.m3u8
+
+#EXTINF:-1,TVRI HD
+https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1,RCTI TV
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,RCTI+
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+
+#EXTINF:-1,GLOBAL TV
+http://202.80.222.174:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,GLOBAL TV
+http://202.80.222.169:80/000001/2/ch14041511505498448705/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,inewsTV 720p
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+
+#EXTINF:-1,INEWS_MKC2
+http://202.80.222.174/000001/2/ch14041511541532132975/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,iNews
+http://202.80.222.130/000001/2/ch14041511541532132975/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,SCTV
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+
+#EXTINF:-1,INDOSIAR
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+
+#EXTINF:-1,INDOSIAR
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,ANTV
+http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,ANTV
+http://id2.indostreamingtv.com:80/live/antv/index.m3u8
+
+#EXTINF:-1,TVONE_MKC2
+http://202.80.222.174/000001/2/ch14061215030555428637/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,TVONE
+http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,METRO TV
+http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1,TRANS 7
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+
+#EXTINF:-1,Trans 7
+http://202.80.222.145/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,Kompas TV
+http://202.80.222.130/000001/2/ch00000090990000001730/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,NET TV
+http://202.80.222.130/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,NET TV
+http://202.80.222.174:80/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
