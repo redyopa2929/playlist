@@ -526,6 +526,8 @@ http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dmi_big1.png?v=2.0.0.13" group-title="RELIGI",DMI Channel
 http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/bxbyr9WGkDHmqE-YTeGtMWL3DfJ0jSd8lBwFyJIKhDiEh-PwM1EgrgqdvRMZaLtfyg=s180-rw" group-title="RELIGI", Nabawi TV
+
 #EXTINF:-1 tvg-logo="http://tv9.co.id/images/foot-icon.png" group-title="RELIGI",TV9
 http://202.80.222.178:80/000001/2/ch00000000000000001522/1001.m3u8?IASHttpSessionId=SLB242022019112522481628564864&ztecid=ch00000000000000001522&bandwidth=491305&ispcode=1&timeformat=local&channel=ch00000000000000001522&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNjQvMjU2Lm0zdTg%3D&zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
