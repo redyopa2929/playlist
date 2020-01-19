@@ -297,6 +297,8 @@ http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9527FC229C33A71FBA
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass
 #EXTINF:-1 group-title="MOVIE", FOX Family Movies Alternatif
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8
+#EXTINF:-1 group-title="MOVIE", FOX Family Movies Alternatif 2
+http://203.207.56.228/live/iptv034.m3u8
 #EXTINF:-1 tvg-id="a6991a2d9e6d8198f94b3daf95f562f5" group-title="MOVIE",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass
 #EXTINF:-1 tvg-id="9ea370ce73cd5a22f3814b2e2ac02bbe" group-title="MOVIE",HBO Family
