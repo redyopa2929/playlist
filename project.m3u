@@ -25,7 +25,7 @@ http://id1.indostreamingtv.com/live/sctv/index.m3u8
 https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=MDuuD87q
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",INDOSIAR 2
-https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=XZcdx7oB
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8f
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
@@ -43,10 +43,10 @@ http://id2.indostreamingtv.com/live/trans7/index.m3u8
 https://livetvhooq.akamaized.net:443/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597561~exp=9007200828338552~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_2/chunklist.m3u8*~hmac=36e36a66dc72a44d109f8e5036284cc3f32f77eee042f8475362acd67ff40834
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TV ONE
-https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
+http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TV ONE 2
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
+http://202.80.222.174/000001/2/ch14061215030555428637/1024.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TRANS TV
 http://id2.indostreamingtv.com/live/tv33/index.m3u8
@@ -124,7 +124,7 @@ https://livetvhooq.akamaized.net:443/37882cebae53494fbb9e86e68eae4673/ap-southea
 https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600461~exp=9007200828341452~acl=/aead26cfa8f6495c98e63a02d4e2f20e/*/profile_0/chunklist.m3u8*~hmac=392ded93cf19d860c6adb4e844992daec4e7c50e7525a525551766b59d3221f1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="LOKAL",TVRI Nasional
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+http://id1.indostreamingtv.com/live/tvri/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="LOKAL",TVRI Jakarta
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
@@ -328,6 +328,8 @@ http://203.153.218.28:9981/stream/channelid/1497533758?ticket=2D019AA4C50D06BCA2
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=12D8BBF8329984DE39E83565970688314BBDFDE2&profile=pass
 #EXTINF:-1 tvg-id="6481ae2680f7ea45c5a379af51eefd44" group-title="INDIHOME",Nickelodeon Asia
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=0DB19E0638CE26116D1EAB88EABDF8BB02DA784A&profile=pass
+#EXTINF:-1 group-title="INDIHOME", NICK JR
+http://213.174.8.7:9100/index.m3u8
 #EXTINF:-1 tvg-id="14717dba4dc58041ef56ad458cda82bc" group-title="INDIHOME",Setanta Sports
 http://203.153.218.28:9981/stream/channelid/981299476?ticket=9F67BAE7020396371F181A7F5BFFBF9CB00BBC22&profile=pass
 #EXTINF:-1 tvg-id="f99f579721c84c855f9d08542171839c" group-title="INDIHOME",TLC
@@ -384,8 +386,11 @@ http://bit.ly/2DvIkGl
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",National Geographic HD (LUAR)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
 
+#EXTINF:-1 group-title="KIDS", NICK JR
+http://213.174.8.7:9100/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="KIDS",Animax
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+http://210.210.155.35/session/13bc0916-f3fb-11e8-9765-822bbdd32828/dr9445/h/h144/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="KIDS",Aniplus
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(386e35b2-14f8-4368-92d7-010d78deaf75)/manifest.mpd
