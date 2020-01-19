@@ -651,23 +651,6 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/red-bull-tv-logo-837623FB07-seeklogo.com.png" group-title="SPORTS",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Al Kass Sports 1
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Al Kass Sports 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Al Kass Sports 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Al Kass Sports 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Al Kass Sports 5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Armenia TV (AM)
-http://ott-cdn.ucom.am/s4/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Eurosport 1
 http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
