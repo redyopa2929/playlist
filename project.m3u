@@ -466,6 +466,11 @@ http://202.80.222.178:80/000001/2/ch00000000000000001522/1001.m3u8?IASHttpSessio
 
 #Update sport
 
+#EXTINF:-1 group-title="SPORTS",Ad sport 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 group-title="SPORTS",Ad Sport 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS", Bein Sports 1
@@ -587,19 +592,6 @@ https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",TRUE PREMIER HD5(SD)
 https://www.livedoomovie.com/02_PremierHD5_480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPORTS",Ad sport 1 HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-
-#EXTINF:-1 group-title="SPORTS",Ad Sport 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1111842868908318721/lMvLaebw_400x400.jpg" group-title="SPORTS",TVRI SPORTS
-http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fightsports.tv/wp-content/uploads/fightsports280.jpg" group-title="SPORTS",Fight Sport
-http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="SPORTS",BT SPORT 1 HD
 https://sportbox.ws/lba/123/g2/btuk1.m3u8
 
@@ -611,6 +603,16 @@ http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",BT SPORT 2 (Extra Server)
 http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1111842868908318721/lMvLaebw_400x400.jpg" group-title="SPORTS",TVRI SPORTS
+http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fightsports.tv/wp-content/uploads/fightsports280.jpg" group-title="SPORTS",Fight Sport
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",SPORTSMAX
