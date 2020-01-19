@@ -3,6 +3,39 @@
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/Republic_of_Indonesia_Flag-logo-3E5321CC56-seeklogo.com.png" group-title="INTRO",HUBUNGI 089655831868 (WHATSAPP)
 https://raw.githubusercontent.com:443/redyopa2929/playlist/master/Untitled-1.mp4
 
+#update cctv
+#EXTINF:-1 tvg-id="cctv1" group-title="CCTV", CCTV-1
+http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/1.m3u8
+#EXTINF:-1 tvg-id="cctv2" group-title="CCTV", CCTV-2
+http://112.50.243.10/PLTV/88888888/224/3221225800/1.m3u8
+#EXTINF:-1 tvg-id="cctv3" group-title="CCTV", CCTV-3
+http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
+#EXTINF:-1 tvg-id="cctv4" group-title="CCTV", CCTV-4
+http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/1.m3u8
+#EXTINF:-1 tvg-id="cctv5" group-title="CCTV", CCTV-5
+http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1 tvg-id="cctv6" group-title="CCTV", CCTV-6
+http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 tvg-id="cctv7" group-title="CCTV", CCTV-7
+http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
+#EXTINF:-1 tvg-id="cctv8" group-title="CCTV", CCTV-8
+http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 tvg-id="cctv9" group-title="CCTV", CCTV-9
+http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+#EXTINF:-1 tvg-id="cctv10" group-title="CCTV", CCTV-10
+http://183.207.249.14/PLTV/3/224/3221225550/index.m3u8
+#EXTINF:-1 tvg-id="cctv11" group-title="CCTV", CCTV-11
+http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+#EXTINF:-1 tvg-id="cctv12" group-title="CCTV", CCTV-12
+http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8
+#EXTINF:-1 tvg-id="cctv13" group-title="CCTV", CCTV-13
+http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+#EXTINF:-1 tvg-id="cctvchild" group-title="CCTV", CCTV-14
+http://223.110.245.169/PLTV/3/224/3221227201/index.m3u8
+#EXTINF:-1 tvg-id="cctv15" group-title="CCTV", CCTV-15
+http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+#update cctv
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
