@@ -790,15 +790,6 @@ http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
 http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SPORTS",SK 1
-https://sport7.ws/lba/OTI2ZmQ0YjljNjZmYTE4ZjdlNmM4OTVhMmMwOTQ4OTY=/g5/sportklub1rs.m3u8
-
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SPORTS",SK 2
-https://sportbox.ws/lba/YTdlMTczOThmNDFhZTU5ODg1ZTY5NGVmMDZhYzJlYTQ=/g1/sk2serbia.m3u8
-
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="SPORTS",SK 3
-https://sportbox.ws/lba/YTdlMTczOThmNDFhZTU5ODg1ZTY5NGVmMDZhYzJlYTQ=/g8/rs3sk.m3u8
-
 #EXTINF:-1 group-title="SPORTS",SPORT TV 2 (Opt. 1)
 https://sportbar.biz/lba/123/g1/sport2port.m3u8
 
