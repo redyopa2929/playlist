@@ -851,6 +851,43 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",Impact Wrestling HD USA
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
+
+
+#EXTINF:-1 group-title="VOD MOVIES", Terminator Dark Fate 2019
+https://www.googleapis.com/drive/v3/files/1HUTIsIqTtoWGIHQ1JHiI6m4bxWP7xTDc/?key=AIzaSyBAOUH1kO2F6Wu3jHdawbH1qrw3oQr_MLU&alt=media
+
+#EXTINF:-1 group-title="VOD MOVIES", Artic 2018
+https://www.googleapis.com/drive/v3/files/1Rq_BfPOJQiZ_o0MI36N8ZREf4YxaYzEN/?key=AIzaSyBAOUH1kO2F6Wu3jHdawbH1qrw3oQr_MLU&alt=media
+
+#EXTINF:-1 group-title="VOD MOVIES", 
+https://www.googleapis.com/drive/v3/files/<FILE ID>/?key=AIzaSyBAOUH1kO2F6Wu3jHdawbH1qrw3oQr_MLU&alt=media
+
+#EXTINF:-1 group-title="VOD MOVIES", 
+https://www.googleapis.com/drive/v3/files/<FILE ID>/?key=AIzaSyBAOUH1kO2F6Wu3jHdawbH1qrw3oQr_MLU&alt=media
+
+#EXTINF:-1 group-title="VOD MOVIES", 
+https://www.googleapis.com/drive/v3/files/<FILE ID>/?key=AIzaSyBAOUH1kO2F6Wu3jHdawbH1qrw3oQr_MLU&alt=media
+
+#EXTINF:-1 group-title="VOD MOVIES", 
+https://www.googleapis.com/drive/v3/files/<FILE ID>/?key=AIzaSyBAOUH1kO2F6Wu3jHdawbH1qrw3oQr_MLU&alt=media
+
+#EXTINF:-1 group-title="VOD MOVIES", 
+https://www.googleapis.com/drive/v3/files/<FILE ID>/?key=AIzaSyBAOUH1kO2F6Wu3jHdawbH1qrw3oQr_MLU&alt=media
+
+#EXTINF:-1 group-title="VOD MOVIES", 
+https://www.googleapis.com/drive/v3/files/<FILE ID>/?key=AIzaSyBAOUH1kO2F6Wu3jHdawbH1qrw3oQr_MLU&alt=media
+
+#EXTINF:-1 group-title="VOD MOVIES", 
+https://www.googleapis.com/drive/v3/files/<FILE ID>/?key=AIzaSyBAOUH1kO2F6Wu3jHdawbH1qrw3oQr_MLU&alt=media
+
+#EXTINF:-1 group-title="VOD MOVIES", 
+https://www.googleapis.com/drive/v3/files/<FILE ID>/?key=AIzaSyBAOUH1kO2F6Wu3jHdawbH1qrw3oQr_MLU&alt=media&key
+
+
+
+
+
+
 #EXTINF:-1 group-title="VOD MOVIES", KINGSMAN GOLDEN CIRCLE
 https://www.googleapis.com/drive/v3/files/13YSPMp_KEUa7iecQ0FmxVOlKC9LoB-z4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
