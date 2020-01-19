@@ -770,6 +770,14 @@ http://ott-cdn.ucom.am/s81/03.m3u8
 #EXTINF:-1 group-title="SPORTS", LALIGA HD
 https://dl.dropbox.com/s/ff5pvk4v88bvhim/spanyol.m3u8?dl=0
 
+#EXTINF:-1 group-title="SPORTS", Liga Indonesia
+https://dl.dropbox.com/s/syg0ltgpd8r1650/usesport.m3u8?dl=0
+#EXTINF:-1 group-title="SPORTS", Liga Indonesia2
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS", League 1
+https://dl.dropbox.com/s/tytynvtppo1ott8/prancis.m3u8?dl=0
+
 #EXTINF:-1 group-title="SPORTS", MNC SPORT
 http://202.80.222.183/000001/2/ch00000090990000001753/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
