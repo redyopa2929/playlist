@@ -764,6 +764,12 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Golf_Channel.png/revision/latest?cb=20100323073508" group-title="SPORTS",GOLF HD
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="SPORTS", LALIGA SD
+http://ott-cdn.ucom.am/s81/03.m3u8
+
+#EXTINF:-1 group-title="SPORTS", LALIGA HD
+https://dl.dropbox.com/s/ff5pvk4v88bvhim/spanyol.m3u8?dl=0
+
 #EXTINF:-1 group-title="SPORTS", MNC SPORT
 http://202.80.222.183/000001/2/ch00000090990000001753/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
