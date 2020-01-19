@@ -5,6 +5,42 @@ https://raw.githubusercontent.com:443/redyopa2929/playlist/master/Untitled-1.mp4
 
 #update cctv
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 1
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-1/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 2
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-2/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 3
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-3/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 4
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-4/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 5
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-5/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 5+
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 6
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-6/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 7
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-7/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 8
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-8/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 9
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-9/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 10
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-10/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 11
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-11/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 12
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-12/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 13
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-13/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 14
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-14/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 15
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-15/1.m3u8
+
 #EXTINF:-1 group-title="CCTV", CCTV 1
 http://39.135.34.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
 #EXTINF:-1 group-title="CCTV", CCTV 2
@@ -349,6 +385,12 @@ http://95.170.215.118/hls/m3u8/HBO-2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",HBO 3
 http://95.170.215.118/hls/m3u8/HBO-3.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", Celestial Movies
+hhttp://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/index1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", Celestial Movies Backup
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="MOVIES",Fox Movies HD [BACKUP]
 https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
