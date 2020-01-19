@@ -327,7 +327,7 @@ http://213.174.8.7:9100/index.m3u8
 http://210.210.155.35/session/13bc0916-f3fb-11e8-9765-822bbdd32828/dr9445/h/h144/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="KIDS",Aniplus
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(386e35b2-14f8-4368-92d7-010d78deaf75)/manifest.mpd
+http://rr1.dens.tv/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" group-title="KIDS",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
