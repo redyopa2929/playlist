@@ -342,7 +342,11 @@ http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC24
 #EXTINF:-1 group-title="INDIHOME",HBO Family ID
 http://203.207.56.228/live/iptv004.m3u8
 
+#EXTINF:-1 group-title="MOVIES", K+
+http://210.210.155.35/session/c74a75b8-0196-11ea-bbc1-c81f66f89318/uq2663/h/h08/index.m3u8
 
+#EXTINF:-1 group-title="MOVIES", KDRAMA
+http://210.210.155.35/session/971493a0-0192-11ea-b1fb-b82a72d63267/qwr9ew/s/s42/index.m3u8
 
 #EXTINF:-1 group-title="NEWS", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
