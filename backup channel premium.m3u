@@ -5,6 +5,42 @@ https://raw.githubusercontent.com:443/redyopa2929/playlist/master/Untitled-1.mp4
 
 #update cctv
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 1
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-1/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 2
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-2/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 3
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-3/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 4
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-4/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 5
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-5/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 5+
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 6
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-6/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 7
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-7/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 8
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-8/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 9
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-9/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 10
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-10/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 11
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-11/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 12
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-12/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 13
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-13/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 14
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-14/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="CCTV",CCTV 15
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-15/1.m3u8
+
 #EXTINF:-1 group-title="CCTV", CCTV 1
 http://39.135.34.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
 #EXTINF:-1 group-title="CCTV", CCTV 2
@@ -17,6 +53,52 @@ http://39.135.34.150:18890/000000001000/1000000002000031664/1.m3u8?channel-id=ys
 http://39.135.34.146:18890/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive&contentid=1000000001000004794&livemode=1&stbid=005203ff000360100001001a34c0cd33&usertoken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000004794&owchid=ystenlive&owsid=1106497909461092492&authinfo=yolxjswzzffv3fvb8mhhuelkgjklbu5h0jb3qahfse7aoraovdzdwbfnj0sxjearfiatofcd93c7ach3puyar1v%2bioi39cfseenlxp5u9ufadu6bcdl7v7ctgkugzw1d
 #EXTINF:-1 group-title="CCTV", CCTV 6
 http://39.135.34.140:18890/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000016466&owchid=ystenlive&owsid=1106497909461115566&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRPL4aTeGJNlZwIkZROfGAKEC3iG4uOUkYNIdPRliCqBi8AjSQtKTBHB8b3LPXJcIA
+
+
+#EXTINF:-1 group-title="CCTV", CCTV-1
+http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+
+#EXTINF:-1 group-title="CCTV", CCTV-2
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+
+#EXTINF:-1 group-title="CCTV", CCTV-3 (Opt-1)
+http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+
+#EXTINF:-1 group-title="CCTV", CCTV-3 (Opt-2)
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+
+#EXTINF:-1 group-title="CCTV", CCTV-4
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+
+#EXTINF:-1 group-title="CCTV", CCTV-6
+http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+
+#EXTINF:-1 group-title="CCTV", CCTV-7
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+
+#EXTINF:-1 group-title="CCTV", CCTV-8
+http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+
+#EXTINF:-1 group-title="CCTV", CCTV-9
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+
+#EXTINF:-1 group-title="CCTV", CCTV-10
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+
+#EXTINF:-1 group-title="CCTV", CCTV-11
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+
+#EXTINF:-1 group-title="CCTV", CCTV-12
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+
+#EXTINF:-1 group-title="CCTV", CCTV-13 (Opt-1)
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+
+#EXTINF:-1 group-title="CCTV", CCTV-14
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+
+#EXTINF:-1 group-title="CCTV", CCTV-15
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 #update cctv
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",RCTI
@@ -59,7 +141,7 @@ http://id2.indostreamingtv.com/live/trans7/index.m3u8
 https://livetvhooq.akamaized.net:443/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597561~exp=9007200828338552~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_2/chunklist.m3u8*~hmac=36e36a66dc72a44d109f8e5036284cc3f32f77eee042f8475362acd67ff40834
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TV ONE
-http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+http://rr2.dens.tv/s/s02/index1.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TV ONE 2
 http://202.80.222.174/000001/2/ch14061215030555428637/1024.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -249,6 +331,10 @@ http://203.153.218.28:9981/stream/channelid/31701170?ticket=2E48030DF49735395AFB
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9527FC229C33A71FBAF7DEF7D4ADD74FA1D1F1D5&profile=pass
 #EXTINF:-1 tvg-id="562a2ef4c0816c592d34d74efc55b35f" group-title="MOVIE",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass
+#EXTINF:-1 group-title="MOVIE", FOX Family Movies Alternatif
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8
+#EXTINF:-1 group-title="MOVIE", FOX Family Movies Alternatif 2
+http://203.207.56.228/live/iptv034.m3u8
 #EXTINF:-1 tvg-id="a6991a2d9e6d8198f94b3daf95f562f5" group-title="MOVIE",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass
 #EXTINF:-1 tvg-id="9ea370ce73cd5a22f3814b2e2ac02bbe" group-title="MOVIE",HBO Family
@@ -256,9 +342,9 @@ http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC24
 #EXTINF:-1 group-title="INDIHOME",HBO Family ID
 http://203.207.56.228/live/iptv004.m3u8
 
-#EXTINNF:-1 group-title="NEWS", CNBC Indonesia
+#EXTINF:-1 group-title="NEWS", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
-#EXTINNF:-1 group-title="NEWS", CNBC Indonesia 1
+#EXTINF:-1 group-title="NEWS", CNBC Indonesia 1
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="INDIHOME",HBO Hits ID
@@ -299,6 +385,12 @@ http://95.170.215.118/hls/m3u8/HBO-2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",HBO 3
 http://95.170.215.118/hls/m3u8/HBO-3.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", Celestial Movies
+hhttp://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/index1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", Celestial Movies Backup
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="MOVIES",Fox Movies HD [BACKUP]
 https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
@@ -716,6 +808,20 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Golf_Channel.png/revision/latest?cb=20100323073508" group-title="SPORTS",GOLF HD
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="SPORTS", LALIGA SD
+http://ott-cdn.ucom.am/s81/03.m3u8
+
+#EXTINF:-1 group-title="SPORTS", LALIGA HD
+https://dl.dropbox.com/s/ff5pvk4v88bvhim/spanyol.m3u8?dl=0
+
+#EXTINF:-1 group-title="SPORTS", Liga Indonesia
+https://dl.dropbox.com/s/syg0ltgpd8r1650/usesport.m3u8?dl=0
+#EXTINF:-1 group-title="SPORTS", Liga Indonesia2
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS", League 1
+https://dl.dropbox.com/s/tytynvtppo1ott8/prancis.m3u8?dl=0
+
 #EXTINF:-1 group-title="SPORTS", MNC SPORT
 http://202.80.222.183/000001/2/ch00000090990000001753/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -889,14 +995,14 @@ https://www.googleapis.com/drive/v3/files/1s_o_9bNBgSuchyQ7II-Ya8yHX-rmBgo0/?key
 #EXTINF:-1 group-title="VOD MOVIES", The Addams Family 2019
 https://www.googleapis.com/drive/v3/files/1uq7eigEc7IcprzgVetOtegDpH90-DpHv/?key=AIzaSyBAOUH1kO2F6Wu3jHdawbH1qrw3oQr_MLU&alt=media
 
-#EXTINF:-1 group-title="VOD MOVIES", 
-https://www.googleapis.com/drive/v3/files/<FILE ID>/?key=AIzaSyBAOUH1kO2F6Wu3jHdawbH1qrw3oQr_MLU&alt=media
+#EXTINF:-1 group-title="VOD MOVIES", Bumblebee 2018
+https://www.googleapis.com/drive/v3/files/17etvYyFMFU6sH7xCr5f22Buuhyl0nGdc/?key=AIzaSyBAOUH1kO2F6Wu3jHdawbH1qrw3oQr_MLU&alt=media
 
-#EXTINF:-1 group-title="VOD MOVIES", 
-https://www.googleapis.com/drive/v3/files/<FILE ID>/?key=AIzaSyBAOUH1kO2F6Wu3jHdawbH1qrw3oQr_MLU&alt=media
+#EXTINF:-1 group-title="VOD MOVIES", Gemini Man 2019
+https://www.googleapis.com/drive/v3/files/1vLZ9osQ0Eip743Rr1W09RSe2m09wXmQC/?key=AIzaSyBAOUH1kO2F6Wu3jHdawbH1qrw3oQr_MLU&alt=media
 
-#EXTINF:-1 group-title="VOD MOVIES", 
-https://www.googleapis.com/drive/v3/files/<FILE ID>/?key=AIzaSyBAOUH1kO2F6Wu3jHdawbH1qrw3oQr_MLU&alt=media
+#EXTINF:-1 group-title="VOD MOVIES", Maleficent Mistress of Evil
+https://www.googleapis.com/drive/v3/files/1Y_kOHJLaQaz7hJe-xnJU_y4rkC2KJia_/?key=AIzaSyBAOUH1kO2F6Wu3jHdawbH1qrw3oQr_MLU&alt=media
 
 #EXTINF:-1 group-title="VOD MOVIES", 
 https://www.googleapis.com/drive/v3/files/<FILE ID>/?key=AIzaSyBAOUH1kO2F6Wu3jHdawbH1qrw3oQr_MLU&alt=media
