@@ -309,9 +309,9 @@ http://203.153.218.28:9981/stream/channelid/1943600623?ticket=9C3D6D1D9C2C7E17C8
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=8C75884AEC347CCF2698FA0D6597E19F865962E4&profile=pass
 #EXTINF:-1 tvg-id="b72498b4f3e893f18e989457613132a6" group-title="KNOWLEDGE",AXN
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=79046258DC0E930E01197AF56D3D1298958EEE07&profile=pass
-#EXTINF:-1 tvg-id="abd85a3324adf620079eaf75d8051e98" group-title="NEWS",BBC World News
+#EXTINF:-1 tvg-id="abd85a3324adf620079eaf75d8051e98" group-title="24/7 WORLD NEWS",BBC World News
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=3BC2042011CC9E27D38AF0DD54FB94B6A8DF5FEC&profile=pass
-#EXTINF:-1 tvg-id="2e2aa78411c4131a6bd63961dec28a9c" group-title="NEWS",Bloomberg International
+#EXTINF:-1 tvg-id="2e2aa78411c4131a6bd63961dec28a9c" group-title="24/7 WORLD NEWS",Bloomberg International
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=C40949788D0E2EF033DFEB68D1304EF571EFEF56&profile=pass
 #EXTINF:-1 tvg-id="1bc079cdec765f993747d5bfb7e6ffc8" group-title="INDIHOME",Blue Ant Extreme
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=D8E336A68F41FF0719427512D203E63B86CBE811&profile=pass
@@ -319,9 +319,9 @@ http://203.153.218.28:9981/stream/channelid/1299824667?ticket=D8E336A68F41FF0719
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass
 #EXTINF:-1 tvg-id="7e3a3c8f65d96b33c7e7b25d8538fa8d" group-title="MOVIES",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=F863A2D24BA5AAC3E655A82101050FA2CA0713C0&profile=pass
-#EXTINF:-1 tvg-id="ef8efee70c5cec1a5659a7315cd38e6d" group-title="NEWS",CNBC International
+#EXTINF:-1 tvg-id="ef8efee70c5cec1a5659a7315cd38e6d" group-title="24/7 WORLD NEWS",CNBC International
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DDFEAEB3CFD519D6B21D5A44&profile=pass
-#EXTINF:-1 tvg-id="18ab304fb5f71666923b59dc3a6612ea" group-title="MEWS",CNN International
+#EXTINF:-1 tvg-id="18ab304fb5f71666923b59dc3a6612ea" group-title="27/7 WORLD NEWS",CNN International
 http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3A77BAE803C77F261879F637E4B795AB373D238F&profile=pass
 #EXTINF:-1 tvg-id="6013a944b7c00a19df095962b7a3e9ab" group-title="KNOWLEDGE",Discovery Channel
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=2B28441BA5F75B65F81562F9A8DB635E8DE08CF5&profile=pass
@@ -342,15 +342,18 @@ http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC24
 #EXTINF:-1 group-title="INDIHOME",HBO Family ID
 http://203.207.56.228/live/iptv004.m3u8
 
+#EXTINF:-1 group-title="24/7 WORLD NEWS",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1241862931_b280000_sleng.m3u8
+
 #EXTINF:-1 group-title="MOVIES", K+
 http://210.210.155.35/session/c74a75b8-0196-11ea-bbc1-c81f66f89318/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES", KDRAMA
 http://210.210.155.35/session/971493a0-0192-11ea-b1fb-b82a72d63267/qwr9ew/s/s42/index.m3u8
 
-#EXTINF:-1 group-title="NEWS", CNBC Indonesia
+#EXTINF:-1 group-title="24/7 WORLD NEWS", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="NEWS", CNBC Indonesia 1
+#EXTINF:-1 group-title="24/7 WORLD NEWS", CNBC Indonesia 1
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="INDIHOME",HBO Hits ID
