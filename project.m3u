@@ -342,6 +342,8 @@ http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC24
 #EXTINF:-1 group-title="INDIHOME",HBO Family ID
 http://203.207.56.228/live/iptv004.m3u8
 
+
+
 #EXTINF:-1 group-title="NEWS", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="NEWS", CNBC Indonesia 1
@@ -717,50 +719,12 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS", Bein Sports 1
-http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/28750
-#EXTINF:-1 group-title="SPORTS", Bein Sports 1
-http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5223
-#EXTINF:-1 group-title="SPORTS", Bein Sports 2
-http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5225
-#EXTINF:-1 group-title="SPORTS", Bein Sports 2
-http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/28751
-#EXTINF:-1 group-title="SPORTS", Bein Sports 3
-http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/28743
-#EXTINF:-1 group-title="SPORTS", Bein Sports 3
-http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5227
-#EXTINF:-1 group-title="SPORTS", Bein Sports 4
-http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5229
-#EXTINF:-1 group-title="SPORTS", Bein Sports 5
-http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5231
-#EXTINF:-1 group-title="SPORTS", Bein Sports 6
-http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5233
-#EXTINF:-1 group-title="SPORTS", Bein Sports 7
-http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5235
-#EXTINF:-1 group-title="SPORTS", Bein Sports 8
-http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5237
-#EXTINF:-1 group-title="SPORTS", Bein Sports NBA
-http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/11440
-#EXTINF:-1 group-title="SPORTS", Bein Sports 10
-http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5240
-#EXTINF:-1 group-title="SPORTS", Bein Sports 10
-http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5242
-#EXTINF:-1 group-title="SPORTS", Bein Sports 11
-http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5241
-#EXTINF:-1 group-title="SPORTS", Bein Sports 11
-http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5243
-#EXTINF:-1 group-title="SPORTS", Bein Sports 14
-http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5244
-#EXTINF:-1 group-title="SPORTS", Bein Sports 15
-http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5245
-#EXTINF:-1 group-title="SPORTS", Bein Sports 16
-http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/5246
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORTS",BEIN SPORTS 1 ID HD
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="SPORTS",BEIN SPORTS 2 ID HD
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+http://95.170.215.108:1213/hls/m3u8/beinhd.m3u8?userAgent=
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein3_small1.png?v=2.0.0.13" group-title="SPORTS",BEIN SPORTS 3 ID HD
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
