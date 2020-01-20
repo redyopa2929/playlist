@@ -948,42 +948,67 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 
+################################################VOD####################################################
 
-#EXTINF:-1 group-title="VOD MOVIES", Terminator Dark Fate 2019
-https://photos.google.com/share/AF1QipMAwNEAaOZMUFTIwzHfFY_Gv1uXTMW9J8DOIiSpWhh1n8BqsZ0K-cEllncGsnNhoQ/photo/AF1QipOHWzfp27An_hmUcQ72898iAYKbfHmf79YmVh-W?key=VF9IVEc1NGdWSU1SOGctZGlvdlF2TFgtZ01mOW5n
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6Hb8abuuGb0A9MlZbKlswmteWwEg4amIA56i41Su148xf427i" group-title="VOD MOVIES",Si Doel The Movie
+https://cdn.clonefile.icu/drive/index.php?id=l52x4%2FdE70ZQAfzu%2BEykDA7k3Xc%2BWG148%2FvZJo2xD9OyWEWdhzSHVb4oI6BcD%2FsISBDKuz7Ey2iIaFzFIeGfHiMo863AQyf%2BU9kziSp5L%2Bk1%2FoEvCKb6LUsjBkGur93SWApcNY3fFudj9EdXdemRu9oluci27iQEPbW2RZzAcLfuCweOB%2Betm8G7uJ4okdLc4gooi5NF5ywgu%2FeOaO7jkQ&ref=https%3A%2F%2Fbos21.bid%2Fsi-doel-the-movie%2F&res=default
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGv33aquFESk8QJJUN3kC7uCrnvQR4ww7QRSkKV2rnHgYtH4NT" group-title="VOD MOVIES",Galih & Ratna
+https://cdn.clonefile.icu/drive/index.php?id=2IKzfUfPWhpWtdiR2O8hHwhyCGfe5LaWDF7xkPUTkRX8diBNxNg8V4LR9Z1QDxLisQ9FUtdebB0aSIaK5MiiA2%2BG5FmJK3Rui2TutfP6hhbN8NXRvGCciquh7GAMg9m9Q73Op0jt%2Fh%2B7OYsf3cRPHyYROaU3MivJsIla52LsqfAAZ%2BYSBqzSdHhNleb3YEHPM%3D&ref=https%3A%2F%2Fbos21.bid%2Fgalih-ratna%2F&res=default
 
-#EXTINF:-1 group-title="VOD MOVIES", Terminator Dark Fate 2019
-https://video-downloads.googleusercontent.com/ABzBgw3hmZqDcoS63QKcB8T3HIQwBqnd1aMBzxKBkRxXp4tSnVc0W5-n0zo0ZgYYtBP3iKW1Cr1rAmm8FB5eMZNDk9hZZQrW87QV0AhfVQM1_KOYSMwO-q8HSJbzMSpw3FxbMw2icgg3V18dimEOM6Wn9nqrkIyv4mb4RZjOfbHp__-uM7rDcv4SY9EqR-WtgjE031_YJzuyH8dVdCQ1QfEqywu3V4RhYnpyOSGcySrm6vuOSS6QmtYAkDG7ldPwjqCZYvIQFRfL5efjA0b0GHeJya3-IBUpXCCAQDK1xfmSPbEw_DwmbfKilF79U7mU_s1Aigo1zyiRzVW0R9whzN01NyaVT2fyrUGod4fokWVj-3SBH2CMXiY2neMPrz8TaEtYcRYRrzYWqr1e3lB2RrGzuzYDdllL_51poA6T5T1A_qZOUY-J2ox0HxKllvcXbv2HbK-xQ0nt1mK8swaSYpJKQLefoe2AWZ0hHWVBqv1Xgl6PF60BDbTrASnxzQQDMh5i47oR2q_6J0D5fEHVS5ZPXhpAch3hgRPu29-Z2hWjhMmZRgHcaMuIEYQbJc79xvTWMItsGHj47paVc-WLDMDIdkGGCjpHX8E8IxcMfGrvsWlWPADigegHM6luXdcN067cRZMrqqYAB48A1UFkGfHBvfAr8ixgxM7wMxH0xNnK5dHUWzhIWMQkJHyZhauqWCQbySUlDTxiK71ppOXBW1JqHbFpVNijoLLq3OWdTVQB6D4r7F3weATkxRyhwdDOI3qZjOh7O5fPkkHjHVICTmVMzh8I3hxzeQWG6mKBM-PUf4xSy_u3zDC3gWgxqceMBF75XD6FnoMD4bFfrg-uVOdlSyuJFDHPTA
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTN7Qimb-4Gaxufxdoe4dsy7Pf3Buu5z6erKfcXP3wWcqII5dg8" group-title="VOD MOVIES",Soekarno: Indonesia Merdeka
+https://cdn.clonefile.icu/drive/index.php?id=84nd8Mx3NJYejjUvuIDa%2FQUpAC9xCyyUbbG0yusyfQ0o6KBE%2BIFKmUYsNxb9AB9dDAOrHSn19CMXFYSByDHDQQR2giLcXAHcrEBxHaR12yP8kO%2FWQ7PlTGnwdepQCMZ%2BkVxW61BuBr8Z75K5i1wnt3HepkrNtZ3kAR9rAhulyA6sT%2BuNmRh%2F7PHtx5qNNvpNEoPq%2Bs68ocBThkUkvlqGI0&ref=https%3A%2F%2Fbos21.bid%2Fsoekarno-indonesia-merdeka%2F&res=default
 
-#EXTINF:-1 group-title="VOD MOVIES", Artic 2018
-https://drive.google.com/uc?id=1Rq_BfPOJQiZ_o0MI36N8ZREf4YxaYzEN
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXbOKzrhyjvxCjlAm7aHnA2RmsPFNwnEpODdxIEVfQPYurzG-p" group-title="VOD MOVIES",Habibie & Ainun
+https://cdn.cloneapi.icu/drive/index.php?id=zS0GFxoJ%2FmkCjFjD73MyTAXyBOmiUjwe4Jdo0gbkHsaSo32T1hpDxHhtLuJLndiQwMLWsyzb6tQJYxccapFee5DWaC6hWg6k0DAjpNjNvrv3HBjAjWfGTRx82fWehG7nVTqyl0CEcvM1Y0JB3nIN7B%2FVej5T5%2FFoSbc9NdWVBkS%2FbNXujPLQFW8dIn2BgjYvI%3D&ref=https%3A%2F%2Fbos21.bid%2Fhabibie-ainun%2F&res=default
 
-#EXTINF:-1 group-title="VOD MOVIES", Shazam 2019
-https://drive.google.com/uc?id=18D4okPLqghG1BykcdIH-LZyJp-kkCqEG
+#EXTINF:0 tvg-logo="https://citypost.id/foto_berita/5c63e16d67c26181sunyi.jpg" group-title="VOD MOVIES",Sunyi
+https://hls.kotaksilver.casa/584134/720_465/playlist.m3u8?r=720p
 
-#EXTINF:-1 group-title="VOD MOVIES", Zombieland Double Tap 2019
-https://drive.google.com/uc?id=files/1s_o_9bNBgSuchyQ7II-Ya8yHX-rmBgo0
+#EXTINF:0 group-title="VOD MOVIES", Dilan 1991
+https://hls.kotaksilver.casa/577970/720_312/playlist.m3u8?r=720p
 
-#EXTINF:-1 group-title="VOD MOVIES", The Addams Family 2019
-https://drive.google.com/uc?id=1uq7eigEc7IcprzgVetOtegDpH90-DpHv
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZjODRlNzYtNTRmZS00MjU3LWExYmEtNjYyMWZhMjQyMjY5XkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg" group-title="VOD MOVIES", Yowis Ben 2
+https://hls.kotaksilver.casa/579955/480_575/playlist.m3u8?r=480p
 
-#EXTINF:-1 group-title="VOD MOVIES", Bumblebee 2018
-https://drive.google.com/uc?id=17etvYyFMFU6sH7xCr5f22Buuhyl0nGdc
+#EXTINF:0 group-title="VOD MOVIES", Terlalu Tampan
+https://hls.kotaksilver.casa/572667/720_716/playlist.m3u8?r=720p
 
-#EXTINF:-1 group-title="VOD MOVIES", Gemini Man 2019
-https://drive.google.com/uc?id=1vLZ9osQ0Eip743Rr1W09RSe2m09wXmQC
+#EXTINF:0 group-title="VOD MOVIES",PSP: Gaya Mahasiswa
+https://hls.kotaksilver.casa/577713/720_768/playlist.m3u8?r=720p
 
-#EXTINF:-1 group-title="VOD MOVIES", Maleficent Mistress of Evil
-https://drive.google.com/uc?id=1Y_kOHJLaQaz7hJe-xnJU_y4rkC2KJia_
+#EXTINF:0 tvg-logo="https://assets-a2.kompasiana.com/items/album/2019/02/14/okb-5c64e9ee43322f14f3499886.jpg?t=o&v=350" group-title="VOD MOVIES",Orang Kaya Baru
+https://hls.kotaksilver.casa/554733/720_161/playlist.m3u8?r=720p
 
-#EXTINF:-1 group-title="VOD MOVIES", 
-https://www.googleapis.com/drive/v3/files/<FILE ID>
+#EXTINF:0group-title="VOD MOVIES",AQUAMAN (Sub Indo)
+https://cdn.cloneapi.icu/drive/index.php?id=f2xMKgGyWw%2B99w1AH%2FnB7wdWJrp0JWnunJwKzadAsT7dFMyKU0mj6yZI5ZYVrdMSmR7Q0tC7FSnwLLL4kQicbGA%2FHnF3%2BEMf6sgbo8bWRFld8%2BLAhwkeSC92F7MSxucVkwtuqzPYUflAXyeBLk1R%2BgpGavA7FQKs330LMVzrcciwjBwTdRot59uh2WXukExIU%3D&ref=https%3A%2F%2Fbos21.bid%2Faquaman%2F&res=default
 
-#EXTINF:-1 group-title="VOD MOVIES", 
-https://www.googleapis.com/drive/v3/files/<FILE ID>&key
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiaZnJMuT6wI28t4yRE_rTyjKqAC3Lvg0eXF7WThdhivAf5fJQ" group-title="VOD MOVIES",VENOM 
+https://cdn.apidev.icu/drive/index.php?id=6enNzUc8IZpfvBxOHbjWigzGmohBAvI5u32aELfOwbDcRWmqu7kAxabqUk2aHOq9oZsUJ7UG2Ztr5d3fTdk1s4w293GXnPITRkrCYg2gIopeOhp1jrvr3NMKFJqERaGGCYCwam1wB%2B04l1NHmj5oN3pKC2tChel%2BkYS8K6pN8yoMkrVQdnp%2FAjjBwhuA46rts%3D&ref=https%3A%2F%2Fbos21.bid%2Fvenom%2F&res=default
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTd63Ei2CAwQMv6Rouhe5q2IxO2sqiXaqHe5chHD5b541kp6NeT" group-title="VOD MOVIES",BUMBLEBEE (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=njIdTwPLly%2FGjaLEgTKTpgNbLgICupPymtQTSRq6%2BsVYlubYvHYenMAAC275He1CkLQuKTXpGeI7nFJ4HqHjTlskmu%2FJ61RbJJSICie%2F%2FX82KZ%2FCXeZ9gWUrhwBAG2MBPJkKjZp8qHusojUxAiUq%2FG2T5lMZYQgFukHWPlzIXik29rev1%2FBP53s9lEQMvUsYA%3D&ref=https%3A%2F%2Fbos21.bid%2Fbumblebee%2F&res=default
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSked8c1p-P0N3MkBUbDVajRszVG-eGaaPkOyDL50TRPIgieoKi" group-title="VOD MOVIES",The NuN (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=9jLVWQOawPzGAAt93VLkaw1gD82fN%2B2GYqy11FOmyjj%2BgvOEFToA5HryytHXrtw%2B3bIuCuPWZmMppVAkAQT8sws0GGvS5Xjt09tW9SWq2QaCh8J1wrESk4xO0%2BJlx%2BPG6fa9pzPmtFmQAjzIc9qEq3uxpeSZ7D1g4vfzyxhVyTMVz9hxRXZcBv0AHi5IN08hs%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-nun%2F&res=default
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRsUxj_INERTndxMz1lQ0YLAHJCeURWOB-sRi8JfJFitYc-WhuG" group-title="VOD MOVIES",The Cabin (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=6bc1Gb6f2UuTV9fT9cKn9w8TLNG2VkPUd87T8x4789huTDNa8LQ4OsmidV03Ay%2F08qI4GtAcliLuhnKavlqYn0NgZZKRjwNTwZRSUFYhZQlRFas9IVmw7Nd5FgzuWmvnCgeL7xzIvwx9PfRiaEtx9Xc6ox5Z%2Fk6NWyWEuqB19muFc7Dy1xuirUtlgW73lqANk%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-cabin%2F&res=default
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDB6CU75s74x7NcimSJABi2ExSDMAkTxUbACEMJV3ob0YkoxHv" group-title="VOD MOVIES",THE NIGHT COMES FOR US (Sub Indo)
+https://cdn.clonefile.icu/drive/index.php?id=4ssY7pVus%2FZYkeuu0Qn1Ug7MlzglwxgrYtoWyJi5jM%2FcXQ0K3IBZx2uhttJoxNCXdeX4XvMNwp9b2Opn3tvBKMrkGrDbIDKVxTR8OGcuQZAmvD8g90o1n92YGNA9kPu0bIjeQchmgnyEyYw5A7pqS8L5s%2Fsi3O2y4DIjEmCl3ecsBYK%2BPf22xskH3UqJFtgdA%3D&ref=https%3A%2F%2Fbos21.bid%2Fas-night-comes%2F&res=default
+
+#EXTINF:0 group-title="VOD MOVIES", AD Astra(2019)
+https://www.googleapis.com/drive/v3/files/1AnoMhojMIk9nM3J56Q8CaSnauP61A31o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:0 group-title="VOD MOVIES", Aeronauts(2019)
+https://www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:0 group-title="VOD MOVIES", Joker (2019)
+https://www.googleapis.com/drive/v3/files/1gdsesv39yVSPlRY7WM9GyJDgTiHkeZv6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:0 group-title="VOD MOVIES", Men in Black: International (2019)
+https://w3.bagicdn.pro/drive//hls/b6dcfc175c0de7bdbc26f564d3c0fdca/b6dcfc175c0de7bdbc26f564d3c0fdca.m3u8
 
 
 #EXTINF:-1 group-title="VOD MOVIES", KINGSMAN GOLDEN CIRCLE
