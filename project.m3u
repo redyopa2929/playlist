@@ -319,6 +319,8 @@ http://203.153.218.28:9981/stream/channelid/1299824667?ticket=D8E336A68F41FF0719
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass
 #EXTINF:-1 tvg-id="7e3a3c8f65d96b33c7e7b25d8538fa8d" group-title="MOVIES",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=F863A2D24BA5AAC3E655A82101050FA2CA0713C0&profile=pass
+#EXTINF:-1 group-title="MOVIES",TVN Movies
+https://etslive-2-vidio-com.akamaized.net/exp=1579765364~acl=/hls-p/ingest_geo_6362_*/*~hmac=6065755f4c83e1438d6603535202a8c7e4bff750aa3f37a0f507f2e3b46ee679/hls-p/ingest_geo_6362_360p/index.m3u8
 #EXTINF:-1 tvg-id="ef8efee70c5cec1a5659a7315cd38e6d" group-title="24/7 WORLD NEWS",CNBC International
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DDFEAEB3CFD519D6B21D5A44&profile=pass
 #EXTINF:-1 tvg-id="18ab304fb5f71666923b59dc3a6612ea" group-title="24/7 WORLD NEWS",CNN International
