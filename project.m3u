@@ -328,7 +328,7 @@ http://203.153.218.28:9981/stream/channelid/1151931232?ticket=2B28441BA5F75B65F8
 #EXTINF:-1 tvg-id="b2b8e381095ded22e60f47b7ffb1fa39" group-title="KIDS",Disney Channel
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=2E48030DF49735395AFB9F80DD6626207B1579D5&profile=pass
 #EXTINF:-1 tvg-id="1898e5f1491a595474f3401d6021a161" group-title="MOVIES",FOX
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9527FC229C33A71FBAF7DEF7D4ADD74FA1D1F1D5&profile=pass
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 #EXTINF:-1 tvg-id="562a2ef4c0816c592d34d74efc55b35f" group-title="MOVIES",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 #EXTINF:-1 group-title="MOVIES", FOX Family Movies Alternatif
@@ -365,7 +365,7 @@ http://203.207.56.228/live/iptv004.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1241862931_b280000_sleng.m3u8
 
 #EXTINF:-1 group-title="24/7 WORLD NEWS",IDX Channel
-https://cdn-livetv1.metube.id/hls/idxchannel_480/index.m3u8
+https://cdnbdsa1.useetv.com/joss/194/idx/chunklist_w1016030536_b684100_sleng.m3u8?enc=qlXydVkrsXWOiaXLhhSHew&exp=1579590271
 #EXTINF:-1 group-title="MOVIES", K+
 http://210.210.155.35/session/c74a75b8-0196-11ea-bbc1-c81f66f89318/uq2663/h/h08/index.m3u8
 
