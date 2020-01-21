@@ -999,6 +999,9 @@ http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8
 #EXTINF:0 group-title="VOD MOVIES" subtitles="https://raw.githubusercontent.com/redyopa2929/playlist/master/episode2.srt", Suit eps 2
 https://gcpvuclip-a.akamaihd.net/exp=1579630857~acl=%2feba463ae80c0ddc81863025f7b7c7bc9%2f*~data=cid%3d1164299932%2ciid%3deba9f16a-8a9c-4e4a-ba00-ae9f74d1527c%2csid%3dakamai-48beec95-b882-4794-b1ae-1be4c03f2345%2csiteId%3dviu%2cslotId%3dwebapp2%2cclientId%3dnone%2cn%3d1579623733117%2ch%3d2AF86B38D93AF8205E3602743F99E1E2%2cip%3d118.99.118.149%2ccdnid%3dakamai%2ccdnprefix%3dgcpvuclip-a.akamaihd.net%2f~hmac=67d5d3566d19dc754718e0be6b6d20ea3952435b4432ee0da18b0870b9d7c361/eba463ae80c0ddc81863025f7b7c7bc9/vp63207_V20180426214432/hlsc_e2931_4.m3u8
 
+#EXTINF:0 group-title="VOD MOVIES" subtitles="https://raw.githubusercontent.com/redyopa2929/playlist/master/episode2.srt", Suit eps 2
+https://gcpvuclip-a.akamaihd.net/exp=1579630857~acl=%2feba463ae80c0ddc81863025f7b7c7bc9%2f*~data=cid%3d1164299932%2ciid%3deba9f16a-8a9c-4e4a-ba00-ae9f74d1527c%2csid%3dakamai-48beec95-b882-4794-b1ae-1be4c03f2345%2csiteId%3dviu%2cslotId%3dwebapp2%2cclientId%3dnone%2cn%3d1579623733117%2ch%3d2AF86B38D93AF8205E3602743F99E1E2%2cip%3d118.99.118.149%2ccdnid%3dakamai%2ccdnprefix%3dgcpvuclip-a.akamaihd.net%2f~hmac=67d5d3566d19dc754718e0be6b6d20ea3952435b4432ee0da18b0870b9d7c361/eba463ae80c0ddc81863025f7b7c7bc9/vp63207_V20180426214432/hlsc_e2931_4.m3u8
+
 #EXTINF:0 group-title="VOD MOVIES", The Raid 2: Berandal
 https://token-geo-id-media-vidio-com.akamaized.net/exp=1579635974~acl=/uploads/1797499/*~hmac=42962e769ce59f7de09ed175b809e3e8e85d7edacdbc282cf49c86824a56b824/uploads/1797499/ets-the-20raid-202-20edit-20convert-6aa8_3d9efc0_med-high.mp4.m3u8
 
