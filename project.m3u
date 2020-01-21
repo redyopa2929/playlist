@@ -335,8 +335,8 @@ http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8
 #EXTINF:-1 group-title="MOVIES", FOX Family Movies Alternatif 2
 http://203.207.56.228/live/iptv034.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="MOVIES",THRILL (SUB INDO)
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1,Thrill (Opt-1)
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:0 tvg-logo="http://my-hd.tv/shared/img/channels/MyCinema.png" group-title="MOVIES",MY CINEMA (SUB INDO)
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:0 tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title="MOVIES",K+ (SUB INDO)
@@ -763,10 +763,10 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORTS",BEIN SPORTS 1  HD
-http://61.160.23.215:2/os7/dogs/5e2e2a99842525a424b51626706807b3.md5
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="SPORTS",BEIN SPORTS 2  HD
-http://95.170.215.108:1213/hls/m3u8/beinhd.m3u8?userAgent=
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein3_small1.png?v=2.0.0.13" group-title="SPORTS",BEIN SPORTS 3 HD
