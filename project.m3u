@@ -147,7 +147,8 @@ https://livetvhooq.akamaized.net:443/659beb5e22754dcb90ffd25247be6627/ap-southea
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TV ONE
 https://etslive-2-vidio-com.akamaized.net/exp=1579677690~acl=/hls-p/ingest_783_*/*~hmac=cc17254353fc701d3a9e264730f503309b325a0977866cd789386b9e2db02c71/hls-p/ingest_783_480p/index.m3u8
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TV ONE
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TV ONE 2
 https://etslive-2-vidio-com.akamaized.net/exp=1579677690~acl=/hls-p/ingest_783_*/*~hmac=cc17254353fc701d3a9e264730f503309b325a0977866cd789386b9e2db02c71/hls-p/ingest_783_480p/index.m3u8
 
