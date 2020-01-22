@@ -6,9 +6,1516 @@ https://raw.githubusercontent.com:443/redyopa2929/playlist/master/Untitled-1.mp4
 
 ===========================TVKU.LIVE=========================================
 
-#EXTINF:-1,HBO HD
-http://tvku.live:8888/andrew/andrew/210
-
+#EXTM3U.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Channel INFO.ts
+http://tvku.live:8888/andrew/andrew/1.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: NET HD.ts
+http://tvku.live:8888/andrew/andrew/3579.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Trans 7.ts
+http://tvku.live:8888/andrew/andrew/3583.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Trans TV.ts
+http://tvku.live:8888/andrew/andrew/3584.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: ANTV.ts
+http://tvku.live:8888/andrew/andrew/3588.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: SCTV.ts
+http://tvku.live:8888/andrew/andrew/3593.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Indosiar.ts
+http://tvku.live:8888/andrew/andrew/4839.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: TV One.ts
+http://tvku.live:8888/andrew/andrew/3587.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Metro TV.ts
+http://tvku.live:8888/andrew/andrew/3589.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Kompas TV.ts
+http://tvku.live:8888/andrew/andrew/3590.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Berita Satu.ts
+http://tvku.live:8888/andrew/andrew/3578.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: TVRI.ts
+http://tvku.live:8888/andrew/andrew/3594.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Rajawali TV.ts
+http://tvku.live:8888/andrew/andrew/3591.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Rodja.ts
+http://tvku.live:8888/andrew/andrew/3592.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: K Drama.ts
+http://tvku.live:8888/andrew/andrew/3595.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Sinema Indonesia.ts
+http://tvku.live:8888/andrew/andrew/3596.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: O Channel.ts
+http://tvku.live:8888/andrew/andrew/3597.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Jak TV.ts
+http://tvku.live:8888/andrew/andrew/3598.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: DAAI TV.ts
+http://tvku.live:8888/andrew/andrew/3599.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: JTV.ts
+http://tvku.live:8888/andrew/andrew/3600.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: CNA.ts
+http://tvku.live:8888/andrew/andrew/3580.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Da Vinci Kids.ts
+http://tvku.live:8888/andrew/andrew/3577.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: BBC World News.ts
+http://tvku.live:8888/andrew/andrew/3585.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: France 24.ts
+http://tvku.live:8888/andrew/andrew/3586.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Spacetoon.ts
+http://tvku.live:8888/andrew/andrew/3603.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Arirang.ts
+http://tvku.live:8888/andrew/andrew/3604.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: XingXong.ts
+http://tvku.live:8888/andrew/andrew/3605.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Aljazeera.ts
+http://tvku.live:8888/andrew/andrew/3606.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Bloomberg.ts
+http://tvku.live:8888/andrew/andrew/3607.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: RT.ts
+http://tvku.live:8888/andrew/andrew/3608.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: MY TV.ts
+http://tvku.live:8888/andrew/andrew/3610.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Disney Channel.ts
+http://tvku.live:8888/andrew/andrew/3613.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Disney Junior.ts
+http://tvku.live:8888/andrew/andrew/3614.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Animal Planet HD.ts
+http://tvku.live:8888/andrew/andrew/3615.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Animal Planet FHD.ts
+http://tvku.live:8888/andrew/andrew/3616.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Discovery Channel HD.ts
+http://tvku.live:8888/andrew/andrew/3617.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Discovery Channel FHD.ts
+http://tvku.live:8888/andrew/andrew/3618.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Nat Geo FHD.ts
+http://tvku.live:8888/andrew/andrew/13690.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Nat Geo Wild FHD.ts
+http://tvku.live:8888/andrew/andrew/13717.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Nat Geo People FHD.ts
+http://tvku.live:8888/andrew/andrew/13718.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Nat Geo People HD.ts
+http://tvku.live:8888/andrew/andrew/3619.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Nat Geo Wild HD.ts
+http://tvku.live:8888/andrew/andrew/3620.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Nat Geo HD.ts
+http://tvku.live:8888/andrew/andrew/3621.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Disc Asia HD.ts
+http://tvku.live:8888/andrew/andrew/3622.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: BBC Lifestyle HD.ts
+http://tvku.live:8888/andrew/andrew/3623.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Channel V HD.ts
+http://tvku.live:8888/andrew/andrew/3624.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: TLC HD.ts
+http://tvku.live:8888/andrew/andrew/3626.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: AFC HD.ts
+http://tvku.live:8888/andrew/andrew/3627.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: HGTV HD.ts
+http://tvku.live:8888/andrew/andrew/3628.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Animax HD.ts
+http://tvku.live:8888/andrew/andrew/3630.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: AXN HD.ts
+http://tvku.live:8888/andrew/andrew/3631.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: S GEM HD.ts
+http://tvku.live:8888/andrew/andrew/3632.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: FOX HD.ts
+http://tvku.live:8888/andrew/andrew/3633.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: FOX FHD.ts
+http://tvku.live:8888/andrew/andrew/3634.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: FOX Life HD.ts
+http://tvku.live:8888/andrew/andrew/3635.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: FOX Life FHD.ts
+http://tvku.live:8888/andrew/andrew/3636.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: FOX Crime HD.ts
+http://tvku.live:8888/andrew/andrew/3637.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: FOX Crime FHD.ts
+http://tvku.live:8888/andrew/andrew/3638.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: FOX Movies HD.ts
+http://tvku.live:8888/andrew/andrew/3639.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: FOX Movies FHD.ts
+http://tvku.live:8888/andrew/andrew/3640.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: FOX Action HD.ts
+http://tvku.live:8888/andrew/andrew/3641.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: FOX Action FHD.ts
+http://tvku.live:8888/andrew/andrew/3642.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: FOX Family Movies HD.ts
+http://tvku.live:8888/andrew/andrew/3643.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: FOX Family Movies FHD.ts
+http://tvku.live:8888/andrew/andrew/3644.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: FX HD.ts
+http://tvku.live:8888/andrew/andrew/3645.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: FX FHD.ts
+http://tvku.live:8888/andrew/andrew/3646.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: HBO HD .ts
+http://tvku.live:8888/andrew/andrew/4828.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: HBO Hits HD.ts
+http://tvku.live:8888/andrew/andrew/4829.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: HBO Family HD.ts
+http://tvku.live:8888/andrew/andrew/4830.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: HBO Signature HD.ts
+http://tvku.live:8888/andrew/andrew/4831.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Red By HBO HD.ts
+http://tvku.live:8888/andrew/andrew/4832.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Cinemax HD.ts
+http://tvku.live:8888/andrew/andrew/4833.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: Sony ONE HD.ts
+http://tvku.live:8888/andrew/andrew/3647.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: FOX Sport HD.ts
+http://tvku.live:8888/andrew/andrew/3648.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: FOX Sport FHD.ts
+http://tvku.live:8888/andrew/andrew/3649.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: FOX Sport 2 HD.ts
+http://tvku.live:8888/andrew/andrew/3650.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: FOX Sport 2 FHD.ts
+http://tvku.live:8888/andrew/andrew/3651.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: FOX Sport 3 HD.ts
+http://tvku.live:8888/andrew/andrew/3652.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Server ID: FOX Sport 3 FHD.ts
+http://tvku.live:8888/andrew/andrew/3653.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", NET TV.ts
+http://tvku.live:8888/andrew/andrew/24.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", NET TV FHD.ts
+http://tvku.live:8888/andrew/andrew/78.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", TVRI Sport HD.ts
+http://tvku.live:8888/andrew/andrew/3831.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Trans TV.ts
+http://tvku.live:8888/andrew/andrew/34.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Trans TV FHD.ts
+http://tvku.live:8888/andrew/andrew/929.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Trans 7.ts
+http://tvku.live:8888/andrew/andrew/35.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Trans 7 FHD.ts
+http://tvku.live:8888/andrew/andrew/930.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", SCTV.ts
+http://tvku.live:8888/andrew/andrew/32.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", SCTV HD.ts
+http://tvku.live:8888/andrew/andrew/931.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Indosiar.ts
+http://tvku.live:8888/andrew/andrew/1845.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Indosiar HD.ts
+http://tvku.live:8888/andrew/andrew/33.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", O Channel.ts
+http://tvku.live:8888/andrew/andrew/1727.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Liga 1 Indonesia.ts
+http://tvku.live:8888/andrew/andrew/1185.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", liga 1 indonesia fhd 50fps (Server ID).ts
+http://tvku.live:8888/andrew/andrew/8942.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Liga 1 Indonesia 2.ts
+http://tvku.live:8888/andrew/andrew/1719.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", ANTV.ts
+http://tvku.live:8888/andrew/andrew/31.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Channel News Asia.ts
+http://tvku.live:8888/andrew/andrew/1191.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CNBC Indonesia.ts
+http://tvku.live:8888/andrew/andrew/1512.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CNN Indonesia.ts
+http://tvku.live:8888/andrew/andrew/44.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CNN Int.ts
+http://tvku.live:8888/andrew/andrew/1200.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Berita Satu News.ts
+http://tvku.live:8888/andrew/andrew/136.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", DW TV Asia.ts
+http://tvku.live:8888/andrew/andrew/205.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", TV ONE.ts
+http://tvku.live:8888/andrew/andrew/29.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Kompas TV.ts
+http://tvku.live:8888/andrew/andrew/30.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Metro TV FHD.ts
+http://tvku.live:8888/andrew/andrew/1697.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Metro TV.ts
+http://tvku.live:8888/andrew/andrew/52.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Insert.ts
+http://tvku.live:8888/andrew/andrew/1763.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Bloomberg TV Asia.ts
+http://tvku.live:8888/andrew/andrew/137.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Rajawali TV.ts
+http://tvku.live:8888/andrew/andrew/37.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Spacetoon.ts
+http://tvku.live:8888/andrew/andrew/1541.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Baby First.ts
+http://tvku.live:8888/andrew/andrew/1204.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Dunia Anak.ts
+http://tvku.live:8888/andrew/andrew/907.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Toonmax.ts
+http://tvku.live:8888/andrew/andrew/1116.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Disney XD.ts
+http://tvku.live:8888/andrew/andrew/104.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Disney UK.ts
+http://tvku.live:8888/andrew/andrew/2336.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Duck TV.ts
+http://tvku.live:8888/andrew/andrew/1854.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Nick Toons.ts
+http://tvku.live:8888/andrew/andrew/335.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Nickelodeon ID.ts
+http://tvku.live:8888/andrew/andrew/962.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Nick Jr ID.ts
+http://tvku.live:8888/andrew/andrew/522.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Dream Works HD.ts
+http://tvku.live:8888/andrew/andrew/936.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Disney Channel.ts
+http://tvku.live:8888/andrew/andrew/306.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Disney Channel ID.ts
+http://tvku.live:8888/andrew/andrew/3479.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Cartoon Network ID HD.ts
+http://tvku.live:8888/andrew/andrew/680.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Boomerang HD.ts
+http://tvku.live:8888/andrew/andrew/305.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Baby TV.ts
+http://tvku.live:8888/andrew/andrew/296.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Nick Jr 2.ts
+http://tvku.live:8888/andrew/andrew/341.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Disney Junior.ts
+http://tvku.live:8888/andrew/andrew/213.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", U Channel.ts
+http://tvku.live:8888/andrew/andrew/1208.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Jak TV.ts
+http://tvku.live:8888/andrew/andrew/1210.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", DAAI TV.ts
+http://tvku.live:8888/andrew/andrew/21.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", TV Mu.ts
+http://tvku.live:8888/andrew/andrew/1726.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Makkah TV.ts
+http://tvku.live:8888/andrew/andrew/297.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Madina TV.ts
+http://tvku.live:8888/andrew/andrew/912.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Bali TV.ts
+http://tvku.live:8888/andrew/andrew/889.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Dangdutz.ts
+http://tvku.live:8888/andrew/andrew/883.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", T Music.ts
+http://tvku.live:8888/andrew/andrew/905.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", KitaNesia.ts
+http://tvku.live:8888/andrew/andrew/607.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Nu Channel.ts
+http://tvku.live:8888/andrew/andrew/611.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Saling Sapa.ts
+http://tvku.live:8888/andrew/andrew/606.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Rodja TV.ts
+http://tvku.live:8888/andrew/andrew/843.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", JTV.ts
+http://tvku.live:8888/andrew/andrew/135.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Dunia Lain.ts
+http://tvku.live:8888/andrew/andrew/910.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Galaxy.ts
+http://tvku.live:8888/andrew/andrew/1698.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", J'Go HD.ts
+http://tvku.live:8888/andrew/andrew/1487.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Bioskop Indonesia.ts
+http://tvku.live:8888/andrew/andrew/908.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Flik HD.ts
+http://tvku.live:8888/andrew/andrew/1497.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", HITS FHD.ts
+http://tvku.live:8888/andrew/andrew/1195.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Hits Movie FHD.ts
+http://tvku.live:8888/andrew/andrew/957.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", KBS World.ts
+http://tvku.live:8888/andrew/andrew/1521.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Cinema World.ts
+http://tvku.live:8888/andrew/andrew/1194.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Star Chinese Movies Legend.ts
+http://tvku.live:8888/andrew/andrew/1859.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CCM.ts
+http://tvku.live:8888/andrew/andrew/2118.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FOX Movies HD.ts
+http://tvku.live:8888/andrew/andrew/98.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FOX Movies HD Backup.ts
+http://tvku.live:8888/andrew/andrew/978.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FOX Movies FHD.ts
+http://tvku.live:8888/andrew/andrew/1205.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FOX Movies SD.ts
+http://tvku.live:8888/andrew/andrew/3333.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FOX Action Movies HD.ts
+http://tvku.live:8888/andrew/andrew/99.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FOX Action Movies HD Backup.ts
+http://tvku.live:8888/andrew/andrew/979.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FOX Action Movies FHD.ts
+http://tvku.live:8888/andrew/andrew/1478.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FOX Action Movies SD.ts
+http://tvku.live:8888/andrew/andrew/1125.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FOX Family Movies EN.ts
+http://tvku.live:8888/andrew/andrew/1493.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FOX Crime HD.ts
+http://tvku.live:8888/andrew/andrew/763.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FOX Crime HD Backup.ts
+http://tvku.live:8888/andrew/andrew/1483.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FOX Crime FHD.ts
+http://tvku.live:8888/andrew/andrew/3334.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FOX Crime SD.ts
+http://tvku.live:8888/andrew/andrew/2257.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Smithsonian Channel.ts
+http://tvku.live:8888/andrew/andrew/14103.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Zoo Moo FHD.ts
+http://tvku.live:8888/andrew/andrew/14104.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Love Nature 4K.ts
+http://tvku.live:8888/andrew/andrew/14105.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", National Geographic Wild HD.ts
+http://tvku.live:8888/andrew/andrew/97.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FOX Life HD.ts
+http://tvku.live:8888/andrew/andrew/94.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FOX HD.ts
+http://tvku.live:8888/andrew/andrew/95.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FX HD.ts
+http://tvku.live:8888/andrew/andrew/776.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", HBO HD.ts
+http://tvku.live:8888/andrew/andrew/210.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", HBO FHD.ts
+http://tvku.live:8888/andrew/andrew/1496.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", HBO Hits HD.ts
+http://tvku.live:8888/andrew/andrew/591.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", HBO Hits FHD.ts
+http://tvku.live:8888/andrew/andrew/11492.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", HBO Family HD.ts
+http://tvku.live:8888/andrew/andrew/592.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", HBO Signature HD.ts
+http://tvku.live:8888/andrew/andrew/873.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", HBO Signature FHD.ts
+http://tvku.live:8888/andrew/andrew/1498.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Red by HBO HD.ts
+http://tvku.live:8888/andrew/andrew/874.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Cinemax HD.ts
+http://tvku.live:8888/andrew/andrew/796.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Cinemax ID.ts
+http://tvku.live:8888/andrew/andrew/2156.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", LifeTime FHD.ts
+http://tvku.live:8888/andrew/andrew/866.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Warner TV ID HD.ts
+http://tvku.live:8888/andrew/andrew/1533.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Star Chinese Movies HD.ts
+http://tvku.live:8888/andrew/andrew/780.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Blue Ant Extreme FHD.ts
+http://tvku.live:8888/andrew/andrew/811.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Waku Waku Japan HD.ts
+http://tvku.live:8888/andrew/andrew/717.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", HGTV.ts
+http://tvku.live:8888/andrew/andrew/537.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AFC HD.ts
+http://tvku.live:8888/andrew/andrew/807.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", tVN Movies.ts
+http://tvku.live:8888/andrew/andrew/927.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", National Geographic Channel HD.ts
+http://tvku.live:8888/andrew/andrew/96.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", National Geographic Channel SD.ts
+http://tvku.live:8888/andrew/andrew/1504.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", National Geographic People.ts
+http://tvku.live:8888/andrew/andrew/455.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", National Geographic Channel Backup.ts
+http://tvku.live:8888/andrew/andrew/1445.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", National Geographic Wild Backup.ts
+http://tvku.live:8888/andrew/andrew/1446.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", National Geographic People Backup.ts
+http://tvku.live:8888/andrew/andrew/1447.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", History HD.ts
+http://tvku.live:8888/andrew/andrew/718.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", History FHD.ts
+http://tvku.live:8888/andrew/andrew/8131.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Animal Planet HD.ts
+http://tvku.live:8888/andrew/andrew/358.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Discovery Channel HD.ts
+http://tvku.live:8888/andrew/andrew/165.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Discovery Asia.ts
+http://tvku.live:8888/andrew/andrew/779.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Discovery Science HD.ts
+http://tvku.live:8888/andrew/andrew/408.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Discovery Shed.ts
+http://tvku.live:8888/andrew/andrew/333.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Discovery Turbo.ts
+http://tvku.live:8888/andrew/andrew/462.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Crime Investigation.ts
+http://tvku.live:8888/andrew/andrew/332.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", IN: Zing TV.ts
+http://tvku.live:8888/andrew/andrew/813.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Fashion TV.ts
+http://tvku.live:8888/andrew/andrew/280.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Sony ONE.ts
+http://tvku.live:8888/andrew/andrew/19.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Aljazeera EN.ts
+http://tvku.live:8888/andrew/andrew/89.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Tennis Channel.ts
+http://tvku.live:8888/andrew/andrew/482.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", DMAX.ts
+http://tvku.live:8888/andrew/andrew/483.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", K Drama.ts
+http://tvku.live:8888/andrew/andrew/1699.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", K Plus.ts
+http://tvku.live:8888/andrew/andrew/18.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Star World.ts
+http://tvku.live:8888/andrew/andrew/381.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BBC Earth.ts
+http://tvku.live:8888/andrew/andrew/385.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", IN: Sony Max HD.ts
+http://tvku.live:8888/andrew/andrew/180.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Zee Bioskop.ts
+http://tvku.live:8888/andrew/andrew/7.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Thrill.ts
+http://tvku.live:8888/andrew/andrew/4.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", KIX.ts
+http://tvku.live:8888/andrew/andrew/8.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Celestial Movies.ts
+http://tvku.live:8888/andrew/andrew/5.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AXN.ts
+http://tvku.live:8888/andrew/andrew/9.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Aniplus.ts
+http://tvku.live:8888/andrew/andrew/2.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Animax.ts
+http://tvku.live:8888/andrew/andrew/3.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Animax Backup.ts
+http://tvku.live:8888/andrew/andrew/1196.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Channel V Int.ts
+http://tvku.live:8888/andrew/andrew/766.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", S GEM HD.ts
+http://tvku.live:8888/andrew/andrew/770.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", TVN ID.ts
+http://tvku.live:8888/andrew/andrew/767.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Bloomberg.ts
+http://tvku.live:8888/andrew/andrew/788.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", France 24.ts
+http://tvku.live:8888/andrew/andrew/787.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", NHK World Japan.ts
+http://tvku.live:8888/andrew/andrew/785.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", TV 5 Monde Asie.ts
+http://tvku.live:8888/andrew/andrew/786.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BBC World News HD.ts
+http://tvku.live:8888/andrew/andrew/789.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CBeebies.ts
+http://tvku.live:8888/andrew/andrew/491.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Every Good Game.ts
+http://tvku.live:8888/andrew/andrew/921.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Prambors TV.ts
+http://tvku.live:8888/andrew/andrew/1157.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", ONE African TV.ts
+http://tvku.live:8888/andrew/andrew/1731.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MTV LIVE FHD.ts
+http://tvku.live:8888/andrew/andrew/9110.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MTV.ts
+http://tvku.live:8888/andrew/andrew/281.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MTV Music.ts
+http://tvku.live:8888/andrew/andrew/286.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MTV Hits.ts
+http://tvku.live:8888/andrew/andrew/287.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MTV Dance.ts
+http://tvku.live:8888/andrew/andrew/288.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MTV Classic.ts
+http://tvku.live:8888/andrew/andrew/289.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MTV Base.ts
+http://tvku.live:8888/andrew/andrew/291.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Trace Naija.ts
+http://tvku.live:8888/andrew/andrew/113.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Trace Urban.ts
+http://tvku.live:8888/andrew/andrew/106.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Trace Mizki.ts
+http://tvku.live:8888/andrew/andrew/109.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Trace Africa.ts
+http://tvku.live:8888/andrew/andrew/108.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Trace Tropical.ts
+http://tvku.live:8888/andrew/andrew/112.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Trace Toca.ts
+http://tvku.live:8888/andrew/andrew/111.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", TLC HD.ts
+http://tvku.live:8888/andrew/andrew/352.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", TLC English.ts
+http://tvku.live:8888/andrew/andrew/351.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Golf Channel FHD.ts
+http://tvku.live:8888/andrew/andrew/561.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BeIN Sport 1 ID.ts
+http://tvku.live:8888/andrew/andrew/728.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BeIN Sport 2 ID.ts
+http://tvku.live:8888/andrew/andrew/729.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Bein Sports Xtra.ts
+http://tvku.live:8888/andrew/andrew/12170.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BeIN Max HD Malaysia.ts
+http://tvku.live:8888/andrew/andrew/4272.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BeIN Max HD Malaysia 50fps.ts
+http://tvku.live:8888/andrew/andrew/6003.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Champions TV 1.ts
+http://tvku.live:8888/andrew/andrew/2407.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Champions TV 2.ts
+http://tvku.live:8888/andrew/andrew/2409.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Usee Sport 2.ts
+http://tvku.live:8888/andrew/andrew/2408.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro Super Sports 1 HD.ts
+http://tvku.live:8888/andrew/andrew/4156.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro Super Sports 2 HD.ts
+http://tvku.live:8888/andrew/andrew/4155.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro Super Sports 3 HD.ts
+http://tvku.live:8888/andrew/andrew/4154.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro Super Sports 4 HD.ts
+http://tvku.live:8888/andrew/andrew/4153.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro Super Sports 1 HD 50fps.ts
+http://tvku.live:8888/andrew/andrew/4834.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro Super Sports 2 HD 50fps.ts
+http://tvku.live:8888/andrew/andrew/4835.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro Super Sports 3 HD 50fps.ts
+http://tvku.live:8888/andrew/andrew/4836.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro Super Sports 4 HD 50fps.ts
+http://tvku.live:8888/andrew/andrew/4837.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro EPL 1 HD.ts
+http://tvku.live:8888/andrew/andrew/4233.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro EPL 2 HD.ts
+http://tvku.live:8888/andrew/andrew/4234.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro EPL 3 HD.ts
+http://tvku.live:8888/andrew/andrew/4235.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro EPL 1 HD 50fps.ts
+http://tvku.live:8888/andrew/andrew/6008.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro EPL 2 HD 50fps.ts
+http://tvku.live:8888/andrew/andrew/6014.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro Arena HD.ts
+http://tvku.live:8888/andrew/andrew/4236.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro Arena HD 50fps.ts
+http://tvku.live:8888/andrew/andrew/4838.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro Cricket HD.ts
+http://tvku.live:8888/andrew/andrew/4237.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FOX Sports 1 HD Malaysia 50fps.ts
+http://tvku.live:8888/andrew/andrew/6004.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FOX Sports 2 HD Malaysia 50fps.ts
+http://tvku.live:8888/andrew/andrew/6005.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FOX Sports 3 HD Malaysia 50fps.ts
+http://tvku.live:8888/andrew/andrew/6006.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Fox Sports 1.ts
+http://tvku.live:8888/andrew/andrew/51.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Fox Sports 1 HD Backup.ts
+http://tvku.live:8888/andrew/andrew/1475.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Fox Sports 2.ts
+http://tvku.live:8888/andrew/andrew/102.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Fox Sports 2 HD Backup.ts
+http://tvku.live:8888/andrew/andrew/1476.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Fox Sports 3.ts
+http://tvku.live:8888/andrew/andrew/101.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Fox Sports 3 HD Backup.ts
+http://tvku.live:8888/andrew/andrew/1477.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Sky Sports F1.ts
+http://tvku.live:8888/andrew/andrew/1507.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", NBCSN HD.ts
+http://tvku.live:8888/andrew/andrew/2402.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", UFC FHD.ts
+http://tvku.live:8888/andrew/andrew/2401.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Star Sport 1 HD.ts
+http://tvku.live:8888/andrew/andrew/1183.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Star Sport 2.ts
+http://tvku.live:8888/andrew/andrew/1184.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PPTV HD.ts
+http://tvku.live:8888/andrew/andrew/605.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Eurosport 1.ts
+http://tvku.live:8888/andrew/andrew/2224.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Eurosport 2.ts
+http://tvku.live:8888/andrew/andrew/2225.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MLB Network.ts
+http://tvku.live:8888/andrew/andrew/2260.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BeIN Sports 1.ts
+http://tvku.live:8888/andrew/andrew/10.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BeIN Sports 2.ts
+http://tvku.live:8888/andrew/andrew/11.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BeIN Sports 3.ts
+http://tvku.live:8888/andrew/andrew/12.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BeIN Sports 4.ts
+http://tvku.live:8888/andrew/andrew/217.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BeIN Sports 5.ts
+http://tvku.live:8888/andrew/andrew/218.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BeIN Sports 6.ts
+http://tvku.live:8888/andrew/andrew/219.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BeIN Sports 7.ts
+http://tvku.live:8888/andrew/andrew/220.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BeIN Sports 8.ts
+http://tvku.live:8888/andrew/andrew/221.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BeIN Sports 9.ts
+http://tvku.live:8888/andrew/andrew/222.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BeIN Sports 10.ts
+http://tvku.live:8888/andrew/andrew/253.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BeIN Sports 11.ts
+http://tvku.live:8888/andrew/andrew/254.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BeIN Sports 12.ts
+http://tvku.live:8888/andrew/andrew/255.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BeIN Sports 13.ts
+http://tvku.live:8888/andrew/andrew/3246.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BeIN LaLiga.ts
+http://tvku.live:8888/andrew/andrew/416.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BT Sport 1.ts
+http://tvku.live:8888/andrew/andrew/319.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BT Sport 2.ts
+http://tvku.live:8888/andrew/andrew/320.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BT Sport 3.ts
+http://tvku.live:8888/andrew/andrew/321.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MU TV.ts
+http://tvku.live:8888/andrew/andrew/400.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", BT Sport ESPN.ts
+http://tvku.live:8888/andrew/andrew/399.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CCTV 5 HD.ts
+http://tvku.live:8888/andrew/andrew/595.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CCTV 5 HD+.ts
+http://tvku.live:8888/andrew/andrew/814.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Golf HD.ts
+http://tvku.live:8888/andrew/andrew/864.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Fight Sports.ts
+http://tvku.live:8888/andrew/andrew/784.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FIGHT BOX.ts
+http://tvku.live:8888/andrew/andrew/501.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Box Nation.ts
+http://tvku.live:8888/andrew/andrew/499.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", WWE Network.ts
+http://tvku.live:8888/andrew/andrew/299.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Real Madrid TV.ts
+http://tvku.live:8888/andrew/andrew/244.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Blue Ant Entertainment FHD.ts
+http://tvku.live:8888/andrew/andrew/1506.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", NBA TV HD.ts
+http://tvku.live:8888/andrew/andrew/3099.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", NBA TV HD US.ts
+http://tvku.live:8888/andrew/andrew/243.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Ten Golf HD.ts
+http://tvku.live:8888/andrew/andrew/224.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Setanta Sport.ts
+http://tvku.live:8888/andrew/andrew/1199.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Setanta Sports +.ts
+http://tvku.live:8888/andrew/andrew/2223.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PT: Sport TV 1 backup.ts
+http://tvku.live:8888/andrew/andrew/2730.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PT: Sport TV 1 HD backup.ts
+http://tvku.live:8888/andrew/andrew/2731.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PT: Sport TV 2 HD backup.ts
+http://tvku.live:8888/andrew/andrew/2733.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PT: Sport TV 2 backup.ts
+http://tvku.live:8888/andrew/andrew/2732.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PT: Sport TV 3 backup.ts
+http://tvku.live:8888/andrew/andrew/2734.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PT: Sport TV 3 HD backup.ts
+http://tvku.live:8888/andrew/andrew/2735.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PT: Sport TV 4 backup.ts
+http://tvku.live:8888/andrew/andrew/2736.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PT: Sport TV 4 HD backup.ts
+http://tvku.live:8888/andrew/andrew/2737.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PT: Sport TV 5 backup.ts
+http://tvku.live:8888/andrew/andrew/2738.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PT: Sport TV 5 HD backup.ts
+http://tvku.live:8888/andrew/andrew/2739.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PL: Eleven Sports 1 HD.ts
+http://tvku.live:8888/andrew/andrew/2740.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PL: Eleven Sports 2 HD.ts
+http://tvku.live:8888/andrew/andrew/2741.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PL: Eleven Sports 3 HD.ts
+http://tvku.live:8888/andrew/andrew/2742.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PL: Eleven Sports 4 HD.ts
+http://tvku.live:8888/andrew/andrew/2743.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", ZA: SuperSport M·Ximo.ts
+http://tvku.live:8888/andrew/andrew/2901.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", ZA: Supersport Blitz.ts
+http://tvku.live:8888/andrew/andrew/2900.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", ZA: SuperSport 12.ts
+http://tvku.live:8888/andrew/andrew/2899.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", ZA: SuperSport 11.ts
+http://tvku.live:8888/andrew/andrew/2898.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", ZA: SuperSport 10.ts
+http://tvku.live:8888/andrew/andrew/2897.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", ZA: SuperSport 9.ts
+http://tvku.live:8888/andrew/andrew/2896.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", ZA: SuperSport 8.ts
+http://tvku.live:8888/andrew/andrew/2895.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", ZA: SuperSport 7.ts
+http://tvku.live:8888/andrew/andrew/2892.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", ZA: SuperSport 6.ts
+http://tvku.live:8888/andrew/andrew/2894.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", ZA: SuperSport 5.ts
+http://tvku.live:8888/andrew/andrew/2891.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", ZA: SuperSport 4.ts
+http://tvku.live:8888/andrew/andrew/2890.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", ZA: SuperSport 3.ts
+http://tvku.live:8888/andrew/andrew/2893.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", ZA: SuperSport 2.ts
+http://tvku.live:8888/andrew/andrew/2889.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", ZA: SuperSport 1.ts
+http://tvku.live:8888/andrew/andrew/2888.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", UK Sport Backup: Sky Sports Racing FHD.ts
+http://tvku.live:8888/andrew/andrew/3459.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", UK Sport Backup: Sky Sports Main Events FHD.ts
+http://tvku.live:8888/andrew/andrew/3462.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", UK Sport Backup: Sky Sports Golf FHD.ts
+http://tvku.live:8888/andrew/andrew/3464.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", UK Sport Backup: Sky Sports F1 FHD.ts
+http://tvku.live:8888/andrew/andrew/3465.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", UK Sport Backup: Sky Sports Action FHD.ts
+http://tvku.live:8888/andrew/andrew/3468.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", UK Sport Backup: Sky Sports Cricket FHD.ts
+http://tvku.live:8888/andrew/andrew/3469.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: SERIE A 1.ts
+http://tvku.live:8888/andrew/andrew/2777.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: SERIE A 2.ts
+http://tvku.live:8888/andrew/andrew/2778.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: SERIE A 3.ts
+http://tvku.live:8888/andrew/andrew/2779.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: SERIE A 5.ts
+http://tvku.live:8888/andrew/andrew/2780.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: SERIE A 7.ts
+http://tvku.live:8888/andrew/andrew/2781.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: SERIE A 8.ts
+http://tvku.live:8888/andrew/andrew/2782.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: SERIE A 6.ts
+http://tvku.live:8888/andrew/andrew/2783.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: SERIE A 4.ts
+http://tvku.live:8888/andrew/andrew/2784.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: SERIE A 9.ts
+http://tvku.live:8888/andrew/andrew/2785.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: SERIE A 10.ts
+http://tvku.live:8888/andrew/andrew/2786.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PT: Eleven Sports 1 HD.ts
+http://tvku.live:8888/andrew/andrew/2978.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PT: Eleven Sports 2 HD.ts
+http://tvku.live:8888/andrew/andrew/2977.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PT: Eleven Sports 3 HD.ts
+http://tvku.live:8888/andrew/andrew/2976.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PT: Eleven Sports 4 HD.ts
+http://tvku.live:8888/andrew/andrew/2975.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PT: Eleven Sports 5 HD.ts
+http://tvku.live:8888/andrew/andrew/2974.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PT: Eleven Sports 6 HD.ts
+http://tvku.live:8888/andrew/andrew/2973.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", True Sport HD 1.ts
+http://tvku.live:8888/andrew/andrew/11189.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", True Sport HD 2.ts
+http://tvku.live:8888/andrew/andrew/3015.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", True Sport HD 3.ts
+http://tvku.live:8888/andrew/andrew/3016.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", True Sport HD 4.ts
+http://tvku.live:8888/andrew/andrew/11190.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", HK: Now Sports Prime.ts
+http://tvku.live:8888/andrew/andrew/3336.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY: Fox Movies.ts
+http://tvku.live:8888/andrew/andrew/2349.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY: Fox Family Movies.ts
+http://tvku.live:8888/andrew/andrew/2350.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY: Fox Action Movies.ts
+http://tvku.live:8888/andrew/andrew/2351.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY: Now Chinese Drama.ts
+http://tvku.live:8888/andrew/andrew/2360.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY: Now International.ts
+http://tvku.live:8888/andrew/andrew/2361.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY: Paramount Channel.ts
+http://tvku.live:8888/andrew/andrew/2363.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY: Fox Life.ts
+http://tvku.live:8888/andrew/andrew/2366.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY: Fox.ts
+http://tvku.live:8888/andrew/andrew/2367.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY: BBC Earth.ts
+http://tvku.live:8888/andrew/andrew/2379.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Adithya TV.ts
+http://tvku.live:8888/andrew/andrew/4256.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro AEC HD.ts
+http://tvku.live:8888/andrew/andrew/4257.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY AFC HD.ts
+http://tvku.live:8888/andrew/andrew/4258.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY Animal Planet HD.ts
+http://tvku.live:8888/andrew/andrew/4259.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY Aniplus HD.ts
+http://tvku.live:8888/andrew/andrew/4260.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro AOD 350.ts
+http://tvku.live:8888/andrew/andrew/4261.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro AOD 351.ts
+http://tvku.live:8888/andrew/andrew/4262.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro AOD 352.ts
+http://tvku.live:8888/andrew/andrew/4263.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro AOD 353.ts
+http://tvku.live:8888/andrew/andrew/4264.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro AOD 361.ts
+http://tvku.live:8888/andrew/andrew/4265.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro AOD 362.ts
+http://tvku.live:8888/andrew/andrew/4266.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro AOD HD 363.ts
+http://tvku.live:8888/andrew/andrew/4267.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY Asian Action.ts
+http://tvku.live:8888/andrew/andrew/4268.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro Awani.ts
+http://tvku.live:8888/andrew/andrew/4269.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY AXN HD.ts
+http://tvku.live:8888/andrew/andrew/4270.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY beIN SPORTS.ts
+http://tvku.live:8888/andrew/andrew/4274.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY BNC.ts
+http://tvku.live:8888/andrew/andrew/4276.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro Bollyone HD.ts
+http://tvku.live:8888/andrew/andrew/4277.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY Cartoon Network.ts
+http://tvku.live:8888/andrew/andrew/4278.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY CCM.ts
+http://tvku.live:8888/andrew/andrew/4279.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY CCTV4.ts
+http://tvku.live:8888/andrew/andrew/4280.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY CELESTIAL HD.ts
+http://tvku.live:8888/andrew/andrew/4281.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro Ceria.ts
+http://tvku.live:8888/andrew/andrew/4282.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY CHUTTI TV.ts
+http://tvku.live:8888/andrew/andrew/4284.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY Crime Investigation HD.ts
+http://tvku.live:8888/andrew/andrew/4285.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY CINEMAX HD.ts
+http://tvku.live:8888/andrew/andrew/4286.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY CLASSIC MOVIES.ts
+http://tvku.live:8888/andrew/andrew/4287.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY CNBC.ts
+http://tvku.live:8888/andrew/andrew/4288.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY CNN HD.ts
+http://tvku.live:8888/andrew/andrew/4289.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY COLORS HD.ts
+http://tvku.live:8888/andrew/andrew/4290.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY CTI ASIA.ts
+http://tvku.live:8888/andrew/andrew/4291.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY Discovery Science HD.ts
+http://tvku.live:8888/andrew/andrew/4292.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY Discovery Asia.ts
+http://tvku.live:8888/andrew/andrew/4293.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY Discovery HD.ts
+http://tvku.live:8888/andrew/andrew/4294.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY Disney Channel.ts
+http://tvku.live:8888/andrew/andrew/4295.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY Disney Junior.ts
+http://tvku.live:8888/andrew/andrew/4296.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY Disney XD HD.ts
+http://tvku.live:8888/andrew/andrew/4297.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY DMAX HD.ts
+http://tvku.live:8888/andrew/andrew/4299.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY eGG Network.ts
+http://tvku.live:8888/andrew/andrew/4301.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY EUROSPORT HD.ts
+http://tvku.live:8888/andrew/andrew/4302.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY Food Network HD.ts
+http://tvku.live:8888/andrew/andrew/4303.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro Go Shop 2.ts
+http://tvku.live:8888/andrew/andrew/4304.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro Go Shop.ts
+http://tvku.live:8888/andrew/andrew/4305.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro Go Shop 3.ts
+http://tvku.live:8888/andrew/andrew/4306.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY Golf Channel HD.ts
+http://tvku.live:8888/andrew/andrew/4307.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY HBO HD.ts
+http://tvku.live:8888/andrew/andrew/4308.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY HELLO.ts
+http://tvku.live:8888/andrew/andrew/4309.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY HGTV HD.ts
+http://tvku.live:8888/andrew/andrew/4310.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY HISTORY HD.ts
+http://tvku.live:8888/andrew/andrew/4311.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY HITS HD.ts
+http://tvku.live:8888/andrew/andrew/4312.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro HUA HEE DAI HD.ts
+http://tvku.live:8888/andrew/andrew/4313.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY JAYA TV.ts
+http://tvku.live:8888/andrew/andrew/4315.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY KALAIGNAR.ts
+http://tvku.live:8888/andrew/andrew/4316.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY KBS WORLD HD.ts
+http://tvku.live:8888/andrew/andrew/4317.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY KIX HD.ts
+http://tvku.live:8888/andrew/andrew/4318.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY KPLUS HD.ts
+http://tvku.live:8888/andrew/andrew/4319.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY MAKKAL TV.ts
+http://tvku.live:8888/andrew/andrew/4320.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY NAURA.ts
+http://tvku.live:8888/andrew/andrew/4321.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY NICKELODEON.ts
+http://tvku.live:8888/andrew/andrew/4322.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro OASIS HD.ts
+http://tvku.live:8888/andrew/andrew/4323.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY Oh!K HD.ts
+http://tvku.live:8888/andrew/andrew/4324.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY ONE HD.ts
+http://tvku.live:8888/andrew/andrew/4325.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro Prima HD.ts
+http://tvku.live:8888/andrew/andrew/4326.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro QUAN JIA HD.ts
+http://tvku.live:8888/andrew/andrew/4327.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY RAJ TV.ts
+http://tvku.live:8888/andrew/andrew/4328.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro Ria HD.ts
+http://tvku.live:8888/andrew/andrew/4329.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY SETANTA SPORTS.ts
+http://tvku.live:8888/andrew/andrew/4330.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro SHUANG XING HD.ts
+http://tvku.live:8888/andrew/andrew/4331.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro STAR VIJAY HD.ts
+http://tvku.live:8888/andrew/andrew/4332.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY SUN MUSIC.ts
+http://tvku.live:8888/andrew/andrew/4333.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY SUN TV HD.ts
+http://tvku.live:8888/andrew/andrew/4334.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY TLC HD.ts
+http://tvku.live:8888/andrew/andrew/4335.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro TUTOR TV PT3.ts
+http://tvku.live:8888/andrew/andrew/4336.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro TUTOR TV SPM.ts
+http://tvku.live:8888/andrew/andrew/4337.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro TUTOR TV UPSR.ts
+http://tvku.live:8888/andrew/andrew/4338.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY TVB CLASSIC.ts
+http://tvku.live:8888/andrew/andrew/4339.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY TVB E-NEWS.ts
+http://tvku.live:8888/andrew/andrew/4340.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY TVB JADE.ts
+http://tvku.live:8888/andrew/andrew/4341.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY TVB XING HE.ts
+http://tvku.live:8888/andrew/andrew/4342.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY TVBS ASIA.ts
+http://tvku.live:8888/andrew/andrew/4343.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY iQIYI HD.ts
+http://tvku.live:8888/andrew/andrew/4314.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro TVIQ.ts
+http://tvku.live:8888/andrew/andrew/4344.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro VAANAVIL.ts
+http://tvku.live:8888/andrew/andrew/4345.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro VINMEEN HD.ts
+http://tvku.live:8888/andrew/andrew/4346.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro WAH LAI TOI HD.ts
+http://tvku.live:8888/andrew/andrew/4347.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro WARNA HD.ts
+http://tvku.live:8888/andrew/andrew/4348.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY WWE NETWORK.ts
+http://tvku.live:8888/andrew/andrew/4349.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Astro XIAO TAI YANG.ts
+http://tvku.live:8888/andrew/andrew/4350.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY ABC AUSTRALIA.ts
+http://tvku.live:8888/andrew/andrew/4358.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY AL JAZEERA HD.ts
+http://tvku.live:8888/andrew/andrew/4359.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY ANIMAX.ts
+http://tvku.live:8888/andrew/andrew/4360.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY BBC WORLD NEWS HD.ts
+http://tvku.live:8888/andrew/andrew/4361.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY CNA HD.ts
+http://tvku.live:8888/andrew/andrew/4362.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY COLORS TAMIL.ts
+http://tvku.live:8888/andrew/andrew/4363.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY COMEDY CENTRAL HD.ts
+http://tvku.live:8888/andrew/andrew/4364.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY DW HD.ts
+http://tvku.live:8888/andrew/andrew/4365.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY FOX SPORTS 2 HD.ts
+http://tvku.live:8888/andrew/andrew/4366.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY FOX SPORTS 3 HD.ts
+http://tvku.live:8888/andrew/andrew/4367.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY FOX SPORTS HD.ts
+http://tvku.live:8888/andrew/andrew/4368.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY MTV.ts
+http://tvku.live:8888/andrew/andrew/4370.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY Nat Geo Wild HD.ts
+http://tvku.live:8888/andrew/andrew/4371.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY tvN Movies.ts
+http://tvku.live:8888/andrew/andrew/4375.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY WARNER TV.ts
+http://tvku.live:8888/andrew/andrew/4376.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY Fox Life HD.ts
+http://tvku.live:8888/andrew/andrew/4379.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY Celestial Movies.ts
+http://tvku.live:8888/andrew/andrew/4386.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY Fox Movies HD.ts
+http://tvku.live:8888/andrew/andrew/4390.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY Fox Action HD.ts
+http://tvku.live:8888/andrew/andrew/4391.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY Fox Movies Family HD.ts
+http://tvku.live:8888/andrew/andrew/4392.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", MY FOX HD.ts
+http://tvku.live:8888/andrew/andrew/4393.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: ABC Perth.ts
+http://tvku.live:8888/andrew/andrew/11201.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: ABC News Perth.ts
+http://tvku.live:8888/andrew/andrew/11202.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: ABC Comedy Perth.ts
+http://tvku.live:8888/andrew/andrew/11203.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: ABC Kids Perth.ts
+http://tvku.live:8888/andrew/andrew/11204.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: ABC Me Perth.ts
+http://tvku.live:8888/andrew/andrew/11205.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Seven Perth.ts
+http://tvku.live:8888/andrew/andrew/11206.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: 7mate Perth.ts
+http://tvku.live:8888/andrew/andrew/11207.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: 7food network Perth.ts
+http://tvku.live:8888/andrew/andrew/11208.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: 7flix Perth.ts
+http://tvku.live:8888/andrew/andrew/11209.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Channel 9 Perth.ts
+http://tvku.live:8888/andrew/andrew/11211.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: 9Go! Perth.ts
+http://tvku.live:8888/andrew/andrew/11212.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: 9Life Perth.ts
+http://tvku.live:8888/andrew/andrew/11213.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: 9Gem Perth.ts
+http://tvku.live:8888/andrew/andrew/11214.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Ten Perth.ts
+http://tvku.live:8888/andrew/andrew/11215.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: 10 Peach Perth.ts
+http://tvku.live:8888/andrew/andrew/11216.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: 10 Bold Perth.ts
+http://tvku.live:8888/andrew/andrew/11217.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: SBS Perth.ts
+http://tvku.live:8888/andrew/andrew/11218.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: SBS World Movies Perth.ts
+http://tvku.live:8888/andrew/andrew/11219.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: SBS Viceland Perth.ts
+http://tvku.live:8888/andrew/andrew/11220.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: SBS Food Perth.ts
+http://tvku.live:8888/andrew/andrew/11221.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Racing.com Perth.ts
+http://tvku.live:8888/andrew/andrew/11222.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: PAC-12 Perth.ts
+http://tvku.live:8888/andrew/andrew/11223.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Outdoor Channel Perth.ts
+http://tvku.live:8888/andrew/andrew/11224.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: NITV Perth.ts
+http://tvku.live:8888/andrew/andrew/11225.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: WTV Perth.ts
+http://tvku.live:8888/andrew/andrew/11226.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Redbull TV Perth.ts
+http://tvku.live:8888/andrew/andrew/11227.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Fox Sports News.ts
+http://tvku.live:8888/andrew/andrew/11229.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Fox Sports 501.ts
+http://tvku.live:8888/andrew/andrew/11230.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Fox Sports 502.ts
+http://tvku.live:8888/andrew/andrew/11231.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Fox Sports 503.ts
+http://tvku.live:8888/andrew/andrew/11232.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Fox Sports 504.ts
+http://tvku.live:8888/andrew/andrew/11233.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Fox Sports 505.ts
+http://tvku.live:8888/andrew/andrew/11234.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Fox Sports 506.ts
+http://tvku.live:8888/andrew/andrew/11235.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Fox Sports 507.ts
+http://tvku.live:8888/andrew/andrew/11236.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: ESPN 1.ts
+http://tvku.live:8888/andrew/andrew/11240.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: ESPN 2.ts
+http://tvku.live:8888/andrew/andrew/11241.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Racing.com.ts
+http://tvku.live:8888/andrew/andrew/11242.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Sky Racing 1.ts
+http://tvku.live:8888/andrew/andrew/11243.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Sky Racing 2.ts
+http://tvku.live:8888/andrew/andrew/11244.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: 7 Racing.ts
+http://tvku.live:8888/andrew/andrew/11245.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: ABC Kids Melbourne.ts
+http://tvku.live:8888/andrew/andrew/11246.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: ABC ME Melbourne.ts
+http://tvku.live:8888/andrew/andrew/11247.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: ABC News Melbourne.ts
+http://tvku.live:8888/andrew/andrew/11248.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Seven Melbourne.ts
+http://tvku.live:8888/andrew/andrew/11249.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: 7flix Melbourne.ts
+http://tvku.live:8888/andrew/andrew/11250.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: 7mate Melbourne.ts
+http://tvku.live:8888/andrew/andrew/11251.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: 7TWO Melbourne.ts
+http://tvku.live:8888/andrew/andrew/11252.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Channel 9 Melbourne.ts
+http://tvku.live:8888/andrew/andrew/11253.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: 9Gem Melbourne.ts
+http://tvku.live:8888/andrew/andrew/11254.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: 9Go! Melbourne.ts
+http://tvku.live:8888/andrew/andrew/11255.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: 9Life Melbourne.ts
+http://tvku.live:8888/andrew/andrew/11256.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: 10 Bold Melbourne.ts
+http://tvku.live:8888/andrew/andrew/11257.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: 10 Peach Melbourne.ts
+http://tvku.live:8888/andrew/andrew/11258.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: SBS Food Melbourne.ts
+http://tvku.live:8888/andrew/andrew/11259.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: SBS Melbourne.ts
+http://tvku.live:8888/andrew/andrew/11260.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: SBS Viceland Melbourne.ts
+http://tvku.live:8888/andrew/andrew/11261.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: SBS World Movies Melbourne.ts
+http://tvku.live:8888/andrew/andrew/11262.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: NITV Melbourne.ts
+http://tvku.live:8888/andrew/andrew/11263.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: RACING.COM Melbourne.ts
+http://tvku.live:8888/andrew/andrew/11264.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Redbull TV Melbourne.ts
+http://tvku.live:8888/andrew/andrew/11265.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Fox Showcase.ts
+http://tvku.live:8888/andrew/andrew/11266.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Fox8.ts
+http://tvku.live:8888/andrew/andrew/11267.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Fox Sports More.ts
+http://tvku.live:8888/andrew/andrew/11268.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: MTV Dance.ts
+http://tvku.live:8888/andrew/andrew/11269.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: MTV Music.ts
+http://tvku.live:8888/andrew/andrew/11270.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Movies Action.ts
+http://tvku.live:8888/andrew/andrew/11271.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Movies Greats HD.ts
+http://tvku.live:8888/andrew/andrew/11272.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Movies Hits.ts
+http://tvku.live:8888/andrew/andrew/11273.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Movies Kids.ts
+http://tvku.live:8888/andrew/andrew/11274.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Nickelodeon.ts
+http://tvku.live:8888/andrew/andrew/11275.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Sky News.ts
+http://tvku.live:8888/andrew/andrew/11276.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Fox Syfy.ts
+http://tvku.live:8888/andrew/andrew/11278.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: TLC.ts
+http://tvku.live:8888/andrew/andrew/11279.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: TVSN.ts
+http://tvku.live:8888/andrew/andrew/11280.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Disney Junior.ts
+http://tvku.live:8888/andrew/andrew/11281.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: E!.ts
+http://tvku.live:8888/andrew/andrew/11282.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Eurosport.ts
+http://tvku.live:8888/andrew/andrew/11283.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Footy Play.ts
+http://tvku.live:8888/andrew/andrew/11284.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Footy Play+.ts
+http://tvku.live:8888/andrew/andrew/11285.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Fox Cricket.ts
+http://tvku.live:8888/andrew/andrew/11286.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Fox Crime.ts
+http://tvku.live:8888/andrew/andrew/11287.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Fox Funny.ts
+http://tvku.live:8888/andrew/andrew/11288.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Fox H!ts.ts
+http://tvku.live:8888/andrew/andrew/11289.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Fox League.ts
+http://tvku.live:8888/andrew/andrew/11290.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Fox News.ts
+http://tvku.live:8888/andrew/andrew/11291.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Fox One.ts
+http://tvku.live:8888/andrew/andrew/11292.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: CNBC.ts
+http://tvku.live:8888/andrew/andrew/11293.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: CNN International.ts
+http://tvku.live:8888/andrew/andrew/11294.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Cartoon Network.ts
+http://tvku.live:8888/andrew/andrew/11295.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Comedy Channel.ts
+http://tvku.live:8888/andrew/andrew/11296.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Crime Investigation Network.ts
+http://tvku.live:8888/andrew/andrew/11297.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Discovery Channel.ts
+http://tvku.live:8888/andrew/andrew/11298.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Discovery Kids.ts
+http://tvku.live:8888/andrew/andrew/11299.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Discovery Science.ts
+http://tvku.live:8888/andrew/andrew/11300.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Discovery Turbo.ts
+http://tvku.live:8888/andrew/andrew/11301.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Disney Channel.ts
+http://tvku.live:8888/andrew/andrew/11302.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: V.ts
+http://tvku.live:8888/andrew/andrew/11303.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: History.ts
+http://tvku.live:8888/andrew/andrew/11304.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: LifeStyle.ts
+http://tvku.live:8888/andrew/andrew/11305.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: LifeStyle Food.ts
+http://tvku.live:8888/andrew/andrew/11306.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: LifeStyle Home.ts
+http://tvku.live:8888/andrew/andrew/11307.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Max.ts
+http://tvku.live:8888/andrew/andrew/11308.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: MTV.ts
+http://tvku.live:8888/andrew/andrew/11309.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Movies Comedy.ts
+http://tvku.live:8888/andrew/andrew/11310.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Movies Drama.ts
+http://tvku.live:8888/andrew/andrew/11311.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Movies Family.ts
+http://tvku.live:8888/andrew/andrew/11312.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Movies Premiere.ts
+http://tvku.live:8888/andrew/andrew/11313.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Movies Romance.ts
+http://tvku.live:8888/andrew/andrew/11314.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Movies Thriller.ts
+http://tvku.live:8888/andrew/andrew/11315.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: NatGeo Wild.ts
+http://tvku.live:8888/andrew/andrew/11316.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: NatGeo.ts
+http://tvku.live:8888/andrew/andrew/11317.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Nick Jr..ts
+http://tvku.live:8888/andrew/andrew/11318.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Sky News UK.ts
+http://tvku.live:8888/andrew/andrew/11319.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Sky Weather.ts
+http://tvku.live:8888/andrew/andrew/11320.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Smooth Arts HD.ts
+http://tvku.live:8888/andrew/andrew/11321.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Bloomberg Television.ts
+http://tvku.live:8888/andrew/andrew/11322.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: UKTV.ts
+http://tvku.live:8888/andrew/andrew/11323.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Universal TV.ts
+http://tvku.live:8888/andrew/andrew/11324.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Fox Sleuth.ts
+http://tvku.live:8888/andrew/andrew/11325.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: A&E.ts
+http://tvku.live:8888/andrew/andrew/11326.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Animal Planet.ts
+http://tvku.live:8888/andrew/andrew/11327.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Arena.ts
+http://tvku.live:8888/andrew/andrew/11328.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: BBC Earth.ts
+http://tvku.live:8888/andrew/andrew/11329.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: BBC First.ts
+http://tvku.live:8888/andrew/andrew/11330.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: BBC World News.ts
+http://tvku.live:8888/andrew/andrew/11331.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Boomerang.ts
+http://tvku.live:8888/andrew/andrew/11332.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: BoxSets.ts
+http://tvku.live:8888/andrew/andrew/11333.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: CBeebies.ts
+http://tvku.live:8888/andrew/andrew/11334.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: CMC.ts
+http://tvku.live:8888/andrew/andrew/11335.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: BLUE ANT ENTERTAINMENT HD.ts
+http://tvku.live:8888/andrew/andrew/2796.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: BLUE ANT EXTREME HD.ts
+http://tvku.live:8888/andrew/andrew/2797.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: FOX FAMILY MOVIES HD.ts
+http://tvku.live:8888/andrew/andrew/2799.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: KIX HD.ts
+http://tvku.live:8888/andrew/andrew/2800.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: FOX LIFE HD.ts
+http://tvku.live:8888/andrew/andrew/2801.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: FOX HD.ts
+http://tvku.live:8888/andrew/andrew/2803.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: CHANNEL V HD.ts
+http://tvku.live:8888/andrew/andrew/2804.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: ASIAN FOOD CHANNEL HD.ts
+http://tvku.live:8888/andrew/andrew/2805.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: BBC NEWS.ts
+http://tvku.live:8888/andrew/andrew/2809.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: BBC LIFESTYLE.ts
+http://tvku.live:8888/andrew/andrew/2810.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VN: BABY FIRST HD.ts
+http://tvku.live:8888/andrew/andrew/2811.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", IN: Colors HD.ts
+http://tvku.live:8888/andrew/andrew/2548.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", IN: Star Jalsha.ts
+http://tvku.live:8888/andrew/andrew/2547.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", IN: Star Plus.ts
+http://tvku.live:8888/andrew/andrew/2546.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", IN: Star Vijay.ts
+http://tvku.live:8888/andrew/andrew/2545.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", IN: UTV Bindass.ts
+http://tvku.live:8888/andrew/andrew/2544.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", IN: UTV Movies HD.ts
+http://tvku.live:8888/andrew/andrew/2543.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", IN: Zee Bollywood.ts
+http://tvku.live:8888/andrew/andrew/2541.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", IN: Zee Cinema.ts
+http://tvku.live:8888/andrew/andrew/2542.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", IN: & Picture HD.ts
+http://tvku.live:8888/andrew/andrew/2553.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", IN: &TV HD India.ts
+http://tvku.live:8888/andrew/andrew/2554.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", IN: B4U Movies.ts
+http://tvku.live:8888/andrew/andrew/2557.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", IN: B4U Music.ts
+http://tvku.live:8888/andrew/andrew/2558.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", IN: Star Movies HD.ts
+http://tvku.live:8888/andrew/andrew/2550.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", IN: SUN Life.ts
+http://tvku.live:8888/andrew/andrew/2556.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", IN: SUN Music.ts
+http://tvku.live:8888/andrew/andrew/2555.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", IN: Zee HD.ts
+http://tvku.live:8888/andrew/andrew/2559.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CN: CCTV 1.ts
+http://tvku.live:8888/andrew/andrew/2909.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CN: CCTV 2.ts
+http://tvku.live:8888/andrew/andrew/2910.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CN: CCTV 3.ts
+http://tvku.live:8888/andrew/andrew/2911.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CN: CCTV 4.ts
+http://tvku.live:8888/andrew/andrew/2912.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CN: CCTV 5.ts
+http://tvku.live:8888/andrew/andrew/2913.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CN: CCTV 5+.ts
+http://tvku.live:8888/andrew/andrew/2914.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CN: CCTV 6.ts
+http://tvku.live:8888/andrew/andrew/2915.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CN: CCTV 7.ts
+http://tvku.live:8888/andrew/andrew/2916.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CN: CCTV 8.ts
+http://tvku.live:8888/andrew/andrew/2917.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CN: CCTV 9.ts
+http://tvku.live:8888/andrew/andrew/2918.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CN: CCTV 10.ts
+http://tvku.live:8888/andrew/andrew/2919.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CN: CCTV 11.ts
+http://tvku.live:8888/andrew/andrew/2920.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CN: CCTV 12.ts
+http://tvku.live:8888/andrew/andrew/2921.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CN: CCTV 13.ts
+http://tvku.live:8888/andrew/andrew/2922.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CN: CCTV 14.ts
+http://tvku.live:8888/andrew/andrew/2923.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", CN: CCTV 15.ts
+http://tvku.live:8888/andrew/andrew/2924.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", TV1.ts
+http://tvku.live:8888/andrew/andrew/2262.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", TV2.ts
+http://tvku.live:8888/andrew/andrew/2263.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", TV3.ts
+http://tvku.live:8888/andrew/andrew/2264.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", TV8.ts
+http://tvku.live:8888/andrew/andrew/2333.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", HK: Now NEWS.ts
+http://tvku.live:8888/andrew/andrew/3338.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: Asia News.ts
+http://tvku.live:8888/andrew/andrew/3418.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: Asian Food Channel.ts
+http://tvku.live:8888/andrew/andrew/3419.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: AXN.ts
+http://tvku.live:8888/andrew/andrew/3420.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: beIN Sports1.ts
+http://tvku.live:8888/andrew/andrew/3423.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: Blue Ant Extreme.ts
+http://tvku.live:8888/andrew/andrew/3426.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: Cartoon Network.ts
+http://tvku.live:8888/andrew/andrew/3428.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: CNN.ts
+http://tvku.live:8888/andrew/andrew/3429.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: Celestial Classic Movies.ts
+http://tvku.live:8888/andrew/andrew/3432.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: Crime Investigation.ts
+http://tvku.live:8888/andrew/andrew/3433.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: Euronews.ts
+http://tvku.live:8888/andrew/andrew/3434.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: HGTV.ts
+http://tvku.live:8888/andrew/andrew/3436.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: FoodNetwork.ts
+http://tvku.live:8888/andrew/andrew/3437.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: History.ts
+http://tvku.live:8888/andrew/andrew/3439.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: Lifetime Channel.ts
+http://tvku.live:8888/andrew/andrew/3441.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: Living Asia.ts
+http://tvku.live:8888/andrew/andrew/3443.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: NatGeo.ts
+http://tvku.live:8888/andrew/andrew/3444.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: NickJr.ts
+http://tvku.live:8888/andrew/andrew/3447.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: StingrayClassica.ts
+http://tvku.live:8888/andrew/andrew/3448.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH:Travel.ts
+http://tvku.live:8888/andrew/andrew/3450.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: Telenovela.ts
+http://tvku.live:8888/andrew/andrew/3451.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: TVN.ts
+http://tvku.live:8888/andrew/andrew/3452.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", PH: WarnerTV.ts
+http://tvku.live:8888/andrew/andrew/3453.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AR: Al Nahar.ts
+http://tvku.live:8888/andrew/andrew/2575.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AR: MBC Action HD.ts
+http://tvku.live:8888/andrew/andrew/2564.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AR: MBC Drama HD.ts
+http://tvku.live:8888/andrew/andrew/2565.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AR: MBC Plus Drama HD.ts
+http://tvku.live:8888/andrew/andrew/2568.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AR: MBC Variety HD.ts
+http://tvku.live:8888/andrew/andrew/2567.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AR: Nile Cinema.ts
+http://tvku.live:8888/andrew/andrew/2584.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AR: NILE COMEDY.ts
+http://tvku.live:8888/andrew/andrew/2583.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AR: Nile Culture.ts
+http://tvku.live:8888/andrew/andrew/2582.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AR: Nile Drama.ts
+http://tvku.live:8888/andrew/andrew/2581.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AR: Nile Family.ts
+http://tvku.live:8888/andrew/andrew/2576.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AR: Nile Life.ts
+http://tvku.live:8888/andrew/andrew/2580.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AR: NILE NEWS.ts
+http://tvku.live:8888/andrew/andrew/2579.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AR: Nile Sport.ts
+http://tvku.live:8888/andrew/andrew/2578.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AR: Nile tv.ts
+http://tvku.live:8888/andrew/andrew/2577.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AR: Rotana Alfam HD.ts
+http://tvku.live:8888/andrew/andrew/2574.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AR: Rotana Cinema HD.ts
+http://tvku.live:8888/andrew/andrew/2573.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AR: Rotana Classic HD.ts
+http://tvku.live:8888/andrew/andrew/2572.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AR: Rotana Khalijiah HD.ts
+http://tvku.live:8888/andrew/andrew/2571.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AR: Rotana Masriah HD.ts
+http://tvku.live:8888/andrew/andrew/2570.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AR: Rotana Music HD.ts
+http://tvku.live:8888/andrew/andrew/2569.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Usee Photo.ts
+http://tvku.live:8888/andrew/andrew/9039.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Usee Prime.ts
+http://tvku.live:8888/andrew/andrew/9040.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Id Ku.ts
+http://tvku.live:8888/andrew/andrew/9041.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Ruang Trampil.ts
+http://tvku.live:8888/andrew/andrew/9042.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", True Premier Football HD 1.ts
+http://tvku.live:8888/andrew/andrew/11191.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", True Premier Football HD 2.ts
+http://tvku.live:8888/andrew/andrew/11192.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", True Premier Football HD 3.ts
+http://tvku.live:8888/andrew/andrew/11193.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", True Premier Football HD 4.ts
+http://tvku.live:8888/andrew/andrew/11194.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", FMN.ts
+http://tvku.live:8888/andrew/andrew/11489.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Sony Ten 1 HD.ts
+http://tvku.live:8888/andrew/andrew/12132.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Sony Ten 2 HD.ts
+http://tvku.live:8888/andrew/andrew/12133.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Sony Ten 3 HD.ts
+http://tvku.live:8888/andrew/andrew/12134.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Sony Espn HD.ts
+http://tvku.live:8888/andrew/andrew/12135.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Sony Six HD.ts
+http://tvku.live:8888/andrew/andrew/12136.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", SBS HD.ts
+http://tvku.live:8888/andrew/andrew/1847.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", SBS Food HD.ts
+http://tvku.live:8888/andrew/andrew/1848.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", SBS Viceland HD.ts
+http://tvku.live:8888/andrew/andrew/1849.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Piala Indonesia.ts
+http://tvku.live:8888/andrew/andrew/2150.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Khanzanah.ts
+http://tvku.live:8888/andrew/andrew/2207.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AFF Futsal Championship 2019.ts
+http://tvku.live:8888/andrew/andrew/3104.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Sinema Indonesia.ts
+http://tvku.live:8888/andrew/andrew/3476.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Jakarta Globe HD.ts
+http://tvku.live:8888/andrew/andrew/3832.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Channel 5.ts
+http://tvku.live:8888/andrew/andrew/11199.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Channel 8.ts
+http://tvku.live:8888/andrew/andrew/11200.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", AU: Sky News Extra.ts
+http://tvku.live:8888/andrew/andrew/11277.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VIP TH: True Premierfootball HD 5.ts
+http://tvku.live:8888/andrew/andrew/2861.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VIP TH: True Premierfootball HD 4.ts
+http://tvku.live:8888/andrew/andrew/2862.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VIP TH: True Premierfootball HD 3.ts
+http://tvku.live:8888/andrew/andrew/2863.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VIP TH: True Premierfootball HD 2.ts
+http://tvku.live:8888/andrew/andrew/2864.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VIP TH: True Premierfootball HD 1.ts
+http://tvku.live:8888/andrew/andrew/2865.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VIP TH: Truesport HD 3.ts
+http://tvku.live:8888/andrew/andrew/2855.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VIP TH: Truesport HD 2.ts
+http://tvku.live:8888/andrew/andrew/2856.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VIP TH: True Tennis HD.ts
+http://tvku.live:8888/andrew/andrew/2854.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", VIP TH: Truesport 2.ts
+http://tvku.live:8888/andrew/andrew/2857.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", Horee.ts
+http://tvku.live:8888/andrew/andrew/14106.ts
+#EXTINF:0 group-title="CHANNEL UPDATE ACAK", TVRI.ts
+http://tvku.live:8888/andrew/andrew/36.ts
+===========================TVKU.LIVE========================================
 #update cctv
 #EXTM3U
 
