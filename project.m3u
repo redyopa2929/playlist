@@ -774,7 +774,7 @@ https://indiku.uk.to/pp/ok.m3u8?ch=bein3
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORTS",BEIN SPORTS 1  HD
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="SPORTS",BEIN SPORTS 2  HD
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
