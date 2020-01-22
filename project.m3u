@@ -454,9 +454,6 @@ http://203.153.218.28:9981/stream/channelid/1151931232?ticket=2B28441BA5F75B65F8
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=2E48030DF49735395AFB9F80DD6626207B1579D5&profile=pass
 #EXTINF:-1 tvg-id="562a2ef4c0816c592d34d74efc55b35f" group-title="MOVIES",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-#EXTINF:-1 group-title="MOVIES", FOX Family Movies Alternatif
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8
-#EXTINF:-1 group-title="MOVIES", FOX Family Movies Alternatif 2
 http://203.207.56.228/live/iptv034.m3u8
 #EXTINF:-1,Thrill (Opt-1)
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
