@@ -1137,6 +1137,9 @@ http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8
 ################################################VOD####################################################
 6b6d20ea3952435b4432ee0da18b0870b9d7c361/eba463ae80c0ddc81863025f7b7c7bc9/vp63207_V20180426214432/hlsc_e2931_4.m3u8
 
+#EXTINF:0 group-title="VOD MOVIES", IT: Chapter Two 2019
+https://fv2-2.failiem.lv/Files.fm_2020-01-23_file_v3xtfu8n/Nonton+It-+Chapter+Two+(2019)+Subtitle+Indonesia+Terbaru+-+Download+Streaming+Online+Gratis_2.mp4
+
 #EXTINF:0 group-title="VOD MOVIES", The Raid 2: Berandal
 https://token-geo-id-media-vidio-com.akamaized.net/exp=1579635974~acl=/uploads/1797499/*~hmac=42962e769ce59f7de09ed175b809e3e8e85d7edacdbc282cf49c86824a56b824/uploads/1797499/ets-the-20raid-202-20edit-20convert-6aa8_3d9efc0_med-high.mp4.m3u8
 
