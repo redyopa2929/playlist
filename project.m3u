@@ -1006,23 +1006,33 @@ https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",TRUE PREMIER HD1(SD)
 https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
 
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",TRUE PREMIER HD1 Backup
+http://139.99.80.148:8888/live/client1/client1/11191.ts?token=QhBYV0dYRg4TC1QAW1YCAwxRA1ZfAVAAXwcCVQdXVlUNUQhSBQEFUQIaSBAQEEJXVQhvWgIbCVQIBQkATRQUEVxAb19QEl4WBA9VAFVGHBBADF1WRAMCUA4NBwZYBFFVFRBAX1ASXhYDDFYEVEYcEFEdRFYUV1IJZlBVRwhVBEADXEVaWBxGW19nAFcOBV5WFl8SA0QVEQxKRBILD0MNDhUQUl9AQgVAVBpeEFBUAQcWSRJQCUxdEUtNEgtDfyVAFRBVTkBVCkdYVwoQWUZEQRZJEloVZkEASkBCVABbBBAbCBIGFhxGWVBAO1EMCl5XVxFZXAhKEV8bBRIdQ1sODFBGX0RrQA1QEwJGAVNcBQMWGA==
+
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",TRUE PREMIER HD2
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",TRUE PREMIER HD2(SD)
 https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
 
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",TRUE PREMIER HD2 Backup
+http://139.99.80.148:8888/live/client1/client1/11192.ts?token=QhBYV0dYRg4TCQcLAl1SU1AHAAQFWgdQDwRUBFdVUQEIAlRUAwlXUlQaSBAQEEJXVQhvWgIbCVQIBQkDTRQUEVxAb19QEl4WBA9VAFVGHBBADF1WRAMCUA4NBwZYBFVQFRBAX1ASXhYADFQGW0YcEFEdRFYUV1IJZlBVRwhVBEADXEVaWBxGW19nAFcOBV5WFl8SA0QVEQxKRBILD0MNDhUQUl9AQgVAVBpeEFFdBwAWSRJQCUxdEUtNEgtDfyVAFRBVTkBVCkdYVwoQWUZEQRZJEloVZkEASkBCVABbBBAbCBIGFhxGWVBAO1EMCl5XVxFZXAhKEV8bBRIdQ1sODFBGX0RrQA1QEwJGAVNdAgsWGA==
+
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",TRUE PREMIER HD3(HD)
 https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",TRUE PREMIER HD3(SD)
 https://www.livedoomovie.com/02_PremierHD3_480p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",TRUE PREMIER HD3 Backup
+http://139.99.80.148:8888/live/client1/client1/11193.ts?token=QhBYV0dYRg4TWlRUUgEDU1AABANXCFBRXAJVAFJXVFJYAFJXAAVdBQkaSBAQEEJXVQhvWgIbCVQIBQkCTRQUEVxAb19QEl4WBA9VAFVGHBBADF1WRAMCUA4NBwZYBFZSFRBAX1ASXhYDDVYEUkYcEFEdRFYUV1IJZlBVRwhVBEADXEVaWBxGW19nAFcOBV5WFl8SA0QVEQxKRBILD0MNDhUQUl9AQgVAVBpeEFFdCAMWSRJQCUxdEUtNEgtDfyVAFRBVTkBVCkdYVwoQWUZEQRZJEloVZkEASkBCVABbBBAbCBIGFhxGWVBAO1EMCl5XVxFZXAhKEV8bBRIdQ1sODFBGX0RrQA1QEwJGAVNdBwsWGA==
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",TRUE PREMIER HD4(HD)
 https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",TRUE PREMIER HD4(SD)
 https://www.livedoomovie.com/02_PremierHD4_480p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",TRUE PREMIER HD4 Backup
+http://139.99.80.148:8888/live/client1/client1/11194.ts?token=QhBYV0dYRg4TXVJTV1ZRVgwHAQRVDQQDDgdSVQcOBAFcUFQBAwBSVQIaSBAQEEJXVQhvWgIbCVQIBQkFTRQUEVxAb19QEl4WBA9VAFVGHBBADF1WRAMCUA4NBwZYBVFTFRBAX1ASXhYFD10BQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGAFpdBhAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpXA1NXARBJ
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",TRUE PREMIER HD5(HD)
 https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
@@ -1035,12 +1045,19 @@ https://www.livedoomovie.com/02_PremierHD5_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="SPORTS",True Sport 1
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="SPORTS",True Sport 1 Backup
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+http://139.99.80.148:8888/live/client1/client1/11189.ts?token=QhBYV0dYRg4TWQVRVVBVB1cDAQUCClYDAQVSBAQFV1ddCwAOVlZdAQQaSBAQEEJXVQhvWgIbCVQIBQgITRQUEVxAb19QEl4WBA9VAFVGHBBADF1WRAMCUA4NBwZZD1NUFRBAX1ASXhYJCFIAQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGAFpTABAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpWC1ZcBRBJ
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1071.png" group-title="SPORTS",True Sport 2
 https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1071.png" group-title="SPORTS",True Sport 2 Backup
+http://139.99.80.148:8888/live/client1/client1/3015.ts?token=QhBYV0dYRg4TWgZXU1MACwQGBQteXFYBDFZTAlQOWQEPVgYOUVMFAFAaSBAQEEJXVQhvWgIbCVYJBQUdQ0MSB0ttWVIWCkYBBglWBEFIEkZdCFURXAgGUgADBwhRB1BOG0JZUhYKRgYECFIFQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGAFpWBBAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpQAFVTEk8=
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1072.png" group-title="SPORTS",True Sport 3
 https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1072.png" group-title="SPORTS",True Sport 3 Backup
+http://139.99.80.148:8888/live/client1/client1/3016.ts?token=QhBYV0dYRg4TDFUEAlQBBlIAAQNWWFJWCQxRUAQCUVYOUVUPAVJRVwUaSBAQEEJXVQhvWgIbCVYJBQYdQ0MSB0ttWVIWCkYBBglWBEFIEkZdCFURXAgGUgADBwhRBVROG0JZUhYKRgUFC1UEQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGAFpTBxAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpXBVNSEk8=
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1073.png" group-title="SPORTS",True Sport 4
 https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
