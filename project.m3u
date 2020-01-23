@@ -852,6 +852,11 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_
 #EXTINF:-1 group-title="KNOWLEDGE",TECHSTORM
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
 
+#EXTINF:-1 group-title="RELIGI",MEKKAH
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1 group-title="RELIGI", MADINAH
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EJCbDAn.png" group-title="RELIGI",NU Channel
 http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
 
