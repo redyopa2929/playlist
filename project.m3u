@@ -1273,396 +1273,402 @@ http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8
 
 
 ================ SPORTS 2 ===================
+
 #EXTINF:0 group-title="SPORTS 2", Golf Channel FHD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/561
+http://tvku.live:8888/andrew/andrew/561
 #EXTINF:0 group-title="SPORTS 2", BeIN Sport 1 ID
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/728
+http://tvku.live:8888/andrew/andrew/728
 #EXTINF:0 group-title="SPORTS 2", BeIN Sport 2 ID
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/729
+http://tvku.live:8888/andrew/andrew/729
 #EXTINF:0 group-title="SPORTS 2", Bein Sports Xtra
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/12170
+http://tvku.live:8888/andrew/andrew/12170
 #EXTINF:0 group-title="SPORTS 2", BeIN Max HD Malaysia
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/4272
+http://tvku.live:8888/andrew/andrew/4272
 #EXTINF:0 group-title="SPORTS 2", BeIN Max HD Malaysia 50fps
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/6003
+http://tvku.live:8888/andrew/andrew/6003
 #EXTINF:0 group-title="SPORTS 2", Champions TV 1
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2407
+http://tvku.live:8888/andrew/andrew/2407
 #EXTINF:0 group-title="SPORTS 2", Champions TV 2
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2409
+http://tvku.live:8888/andrew/andrew/2409
 #EXTINF:0 group-title="SPORTS 2", Usee Sport 2
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2408
+http://tvku.live:8888/andrew/andrew/2408
 #EXTINF:0 group-title="SPORTS 2", Astro Super Sports 1 HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/4156
+http://tvku.live:8888/andrew/andrew/4156
 #EXTINF:0 group-title="SPORTS 2", Astro Super Sports 2 HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/4155
+http://tvku.live:8888/andrew/andrew/4155
 #EXTINF:0 group-title="SPORTS 2", Astro Super Sports 3 HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/4154
+http://tvku.live:8888/andrew/andrew/4154
 #EXTINF:0 group-title="SPORTS 2", Astro Super Sports 4 HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/4153
+http://tvku.live:8888/andrew/andrew/4153
 #EXTINF:0 group-title="SPORTS 2", Astro Super Sports 1 HD 50fps
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/4834
+http://tvku.live:8888/andrew/andrew/4834
 #EXTINF:0 group-title="SPORTS 2", Astro Super Sports 2 HD 50fps
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/4835
+http://tvku.live:8888/andrew/andrew/4835
 #EXTINF:0 group-title="SPORTS 2", Astro Super Sports 3 HD 50fps
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/4836
+http://tvku.live:8888/andrew/andrew/4836
 #EXTINF:0 group-title="SPORTS 2", Astro Super Sports 4 HD 50fps
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/4837
+http://tvku.live:8888/andrew/andrew/4837
 #EXTINF:0 group-title="SPORTS 2", Astro EPL 1 HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/4233
+http://tvku.live:8888/andrew/andrew/4233
 #EXTINF:0 group-title="SPORTS 2", Astro EPL 2 HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/4234
+http://tvku.live:8888/andrew/andrew/4234
 #EXTINF:0 group-title="SPORTS 2", Astro EPL 3 HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/4235
+http://tvku.live:8888/andrew/andrew/4235
 #EXTINF:0 group-title="SPORTS 2", Astro EPL 1 HD 50fps
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/6008
+http://tvku.live:8888/andrew/andrew/6008
 #EXTINF:0 group-title="SPORTS 2", Astro EPL 2 HD 50fps
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/6014
+http://tvku.live:8888/andrew/andrew/6014
 #EXTINF:0 group-title="SPORTS 2", Astro Arena HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/4236
+http://tvku.live:8888/andrew/andrew/4236
 #EXTINF:0 group-title="SPORTS 2", Astro Arena HD 50fps
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/4838
+http://tvku.live:8888/andrew/andrew/4838
 #EXTINF:0 group-title="SPORTS 2", Astro Cricket HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/4237
+http://tvku.live:8888/andrew/andrew/4237
 #EXTINF:0 group-title="SPORTS 2", FOX Sports 1 HD Malaysia 50fps
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/6004
+http://tvku.live:8888/andrew/andrew/6004
 #EXTINF:0 group-title="SPORTS 2", FOX Sports 2 HD Malaysia 50fps
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/6005
+http://tvku.live:8888/andrew/andrew/6005
 #EXTINF:0 group-title="SPORTS 2", FOX Sports 3 HD Malaysia 50fps
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/6006
+http://tvku.live:8888/andrew/andrew/6006
 #EXTINF:0 group-title="SPORTS 2", Fox Sports 1
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/51
+http://tvku.live:8888/andrew/andrew/51
 #EXTINF:0 group-title="SPORTS 2", Fox Sports 1 HD Backup
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/1475
+http://tvku.live:8888/andrew/andrew/1475
 #EXTINF:0 group-title="SPORTS 2", Fox Sports 2
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/102
+http://tvku.live:8888/andrew/andrew/102
 #EXTINF:0 group-title="SPORTS 2", Fox Sports 2 HD Backup
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/1476
+http://tvku.live:8888/andrew/andrew/1476
 #EXTINF:0 group-title="SPORTS 2", Fox Sports 3
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/101
+http://tvku.live:8888/andrew/andrew/101
 #EXTINF:0 group-title="SPORTS 2", Fox Sports 3 HD Backup
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/1477
+http://tvku.live:8888/andrew/andrew/1477
 #EXTINF:0 group-title="SPORTS 2", Sky Sports F1
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/1507
+http://tvku.live:8888/andrew/andrew/1507
 #EXTINF:0 group-title="SPORTS 2", NBCSN HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2402
+http://tvku.live:8888/andrew/andrew/2402
 #EXTINF:0 group-title="SPORTS 2", UFC FHD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2401
+http://tvku.live:8888/andrew/andrew/2401
 #EXTINF:0 group-title="SPORTS 2", Star Sport 1 HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/1183
+http://tvku.live:8888/andrew/andrew/1183
 #EXTINF:0 group-title="SPORTS 2", Star Sport 2
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/1184
+http://tvku.live:8888/andrew/andrew/1184
 #EXTINF:0 group-title="SPORTS 2", Star Sport 3 HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/14950
+http://tvku.live:8888/andrew/andrew/14950
 #EXTINF:0 group-title="SPORTS 2", PPTV HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/605
+http://tvku.live:8888/andrew/andrew/605
 #EXTINF:0 group-title="SPORTS 2", Eurosport 1
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2224
+http://tvku.live:8888/andrew/andrew/2224
 #EXTINF:0 group-title="SPORTS 2", Eurosport 2
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2225
+http://tvku.live:8888/andrew/andrew/2225
 #EXTINF:0 group-title="SPORTS 2", BeIN Sports 1
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/10
+http://tvku.live:8888/andrew/andrew/10
 #EXTINF:0 group-title="SPORTS 2", BeIN Sports 2
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/11
+http://tvku.live:8888/andrew/andrew/11
 #EXTINF:0 group-title="SPORTS 2", BeIN Sports 3
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/12
+http://tvku.live:8888/andrew/andrew/12
 #EXTINF:0 group-title="SPORTS 2", BeIN Sports 4
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/217
+http://tvku.live:8888/andrew/andrew/217
 #EXTINF:0 group-title="SPORTS 2", BeIN Sports 5
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/218
+http://tvku.live:8888/andrew/andrew/218
 #EXTINF:0 group-title="SPORTS 2", BeIN Sports 6
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/219
+http://tvku.live:8888/andrew/andrew/219
 #EXTINF:0 group-title="SPORTS 2", BeIN Sports 7
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/220
+http://tvku.live:8888/andrew/andrew/220
 #EXTINF:0 group-title="SPORTS 2", BeIN Sports 8
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/221
+http://tvku.live:8888/andrew/andrew/221
 #EXTINF:0 group-title="SPORTS 2", BeIN Sports 9
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/222
+http://tvku.live:8888/andrew/andrew/222
 #EXTINF:0 group-title="SPORTS 2", BeIN Sports 10
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/253
+http://tvku.live:8888/andrew/andrew/253
 #EXTINF:0 group-title="SPORTS 2", BeIN Sports 11
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/254
+http://tvku.live:8888/andrew/andrew/254
 #EXTINF:0 group-title="SPORTS 2", BeIN Sports 12
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/255
+http://tvku.live:8888/andrew/andrew/255
 #EXTINF:0 group-title="SPORTS 2", BeIN Sports 13
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/3246
+http://tvku.live:8888/andrew/andrew/3246
 #EXTINF:0 group-title="SPORTS 2", BeIN LaLiga
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/416
+http://tvku.live:8888/andrew/andrew/416
 #EXTINF:0 group-title="SPORTS 2", BT Sport 1
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/319
+http://tvku.live:8888/andrew/andrew/319
 #EXTINF:0 group-title="SPORTS 2", BT Sport 2
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/320
+http://tvku.live:8888/andrew/andrew/320
 #EXTINF:0 group-title="SPORTS 2", BT Sport 3
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/321
+http://tvku.live:8888/andrew/andrew/321
 #EXTINF:0 group-title="SPORTS 2", MU TV
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/400
+http://tvku.live:8888/andrew/andrew/400
 #EXTINF:0 group-title="SPORTS 2", BT Sport ESPN
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/399
+http://tvku.live:8888/andrew/andrew/399
 #EXTINF:0 group-title="SPORTS 2", CCTV 5 HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/595
+http://tvku.live:8888/andrew/andrew/595
 #EXTINF:0 group-title="SPORTS 2", CCTV 5 HD+
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/814
+http://tvku.live:8888/andrew/andrew/814
 #EXTINF:0 group-title="SPORTS 2", Golf HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/864
+http://tvku.live:8888/andrew/andrew/864
 #EXTINF:0 group-title="SPORTS 2", Fight Sports
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/784
+http://tvku.live:8888/andrew/andrew/784
 #EXTINF:0 group-title="SPORTS 2", FIGHT BOX
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/501
+http://tvku.live:8888/andrew/andrew/501
 #EXTINF:0 group-title="SPORTS 2", Box Nation
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/499
+http://tvku.live:8888/andrew/andrew/499
 #EXTINF:0 group-title="SPORTS 2", WWE Network
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/299
+http://tvku.live:8888/andrew/andrew/299
 #EXTINF:0 group-title="SPORTS 2", Real Madrid TV
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/244
+http://tvku.live:8888/andrew/andrew/244
 #EXTINF:0 group-title="SPORTS 2", Blue Ant Entertainment FHD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/1506
+http://tvku.live:8888/andrew/andrew/1506
 #EXTINF:0 group-title="SPORTS 2", NBA TV HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/3099
+http://tvku.live:8888/andrew/andrew/3099
 #EXTINF:0 group-title="SPORTS 2", NBA TV HD US
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/243
+http://tvku.live:8888/andrew/andrew/243
 #EXTINF:0 group-title="SPORTS 2", Ten Golf HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/224
+http://tvku.live:8888/andrew/andrew/224
 #EXTINF:0 group-title="SPORTS 2", Setanta Sport
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/1199
+http://tvku.live:8888/andrew/andrew/1199
 #EXTINF:0 group-title="SPORTS 2", Setanta Sports +
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2223
+http://tvku.live:8888/andrew/andrew/2223
 #EXTINF:0 group-title="SPORTS 2", PT: Sport TV 1 backup
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2730
+http://tvku.live:8888/andrew/andrew/2730
 #EXTINF:0 group-title="SPORTS 2", PT: Sport TV 1 HD backup
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2731
+http://tvku.live:8888/andrew/andrew/2731
 #EXTINF:0 group-title="SPORTS 2", PT: Sport TV 2 HD backup
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2733
+http://tvku.live:8888/andrew/andrew/2733
 #EXTINF:0 group-title="SPORTS 2", PT: Sport TV 2 backup
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2732
+http://tvku.live:8888/andrew/andrew/2732
 #EXTINF:0 group-title="SPORTS 2", PT: Sport TV 3 backup
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2734
+http://tvku.live:8888/andrew/andrew/2734
 #EXTINF:0 group-title="SPORTS 2", PT: Sport TV 3 HD backup
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2735
+http://tvku.live:8888/andrew/andrew/2735
 #EXTINF:0 group-title="SPORTS 2", PT: Sport TV 4 backup
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2736
+http://tvku.live:8888/andrew/andrew/2736
 #EXTINF:0 group-title="SPORTS 2", PT: Sport TV 4 HD backup
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2737
+http://tvku.live:8888/andrew/andrew/2737
 #EXTINF:0 group-title="SPORTS 2", PT: Sport TV 5 backup
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2738
+http://tvku.live:8888/andrew/andrew/2738
 #EXTINF:0 group-title="SPORTS 2", PT: Sport TV 5 HD backup
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2739
+http://tvku.live:8888/andrew/andrew/2739
 #EXTINF:0 group-title="SPORTS 2", PL: Eleven Sports 1 HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2740
+http://tvku.live:8888/andrew/andrew/2740
 #EXTINF:0 group-title="SPORTS 2", PL: Eleven Sports 2 HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2741
+http://tvku.live:8888/andrew/andrew/2741
 #EXTINF:0 group-title="SPORTS 2", PL: Eleven Sports 3 HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2742
+http://tvku.live:8888/andrew/andrew/2742
 #EXTINF:0 group-title="SPORTS 2", PL: Eleven Sports 4 HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2743
+http://tvku.live:8888/andrew/andrew/2743
 #EXTINF:0 group-title="SPORTS 2", ZA: SuperSport M·Ximo
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2901
+http://tvku.live:8888/andrew/andrew/2901
 #EXTINF:0 group-title="SPORTS 2", ZA: Supersport Blitz
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2900
+http://tvku.live:8888/andrew/andrew/2900
 #EXTINF:0 group-title="SPORTS 2", ZA: SuperSport 12
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2899
+http://tvku.live:8888/andrew/andrew/2899
 #EXTINF:0 group-title="SPORTS 2", ZA: SuperSport 11
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2898
+http://tvku.live:8888/andrew/andrew/2898
 #EXTINF:0 group-title="SPORTS 2", ZA: SuperSport 10
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2897
+http://tvku.live:8888/andrew/andrew/2897
 #EXTINF:0 group-title="SPORTS 2", ZA: SuperSport 9
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2896
+http://tvku.live:8888/andrew/andrew/2896
 #EXTINF:0 group-title="SPORTS 2", ZA: SuperSport 8
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2895
+http://tvku.live:8888/andrew/andrew/2895
 #EXTINF:0 group-title="SPORTS 2", ZA: SuperSport 7
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2892
+http://tvku.live:8888/andrew/andrew/2892
 #EXTINF:0 group-title="SPORTS 2", ZA: SuperSport 6
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2894
+http://tvku.live:8888/andrew/andrew/2894
 #EXTINF:0 group-title="SPORTS 2", ZA: SuperSport 5
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2891
+http://tvku.live:8888/andrew/andrew/2891
 #EXTINF:0 group-title="SPORTS 2", ZA: SuperSport 4
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2890
+http://tvku.live:8888/andrew/andrew/2890
 #EXTINF:0 group-title="SPORTS 2", ZA: SuperSport 3
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2893
+http://tvku.live:8888/andrew/andrew/2893
 #EXTINF:0 group-title="SPORTS 2", ZA: SuperSport 2
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2889
+http://tvku.live:8888/andrew/andrew/2889
 #EXTINF:0 group-title="SPORTS 2", ZA: SuperSport 1
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2888
+http://tvku.live:8888/andrew/andrew/2888
 #EXTINF:0 group-title="SPORTS 2", UK Sport Backup: Sky Sports Racing FHD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/3459
+http://tvku.live:8888/andrew/andrew/3459
 #EXTINF:0 group-title="SPORTS 2", UK Sport Backup: Sky Sports Main Events FHD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/3462
+http://tvku.live:8888/andrew/andrew/3462
 #EXTINF:0 group-title="SPORTS 2", UK Sport Backup: Sky Sports Golf FHD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/3464
+http://tvku.live:8888/andrew/andrew/3464
 #EXTINF:0 group-title="SPORTS 2", UK Sport Backup: Sky Sports F1 FHD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/3465
+http://tvku.live:8888/andrew/andrew/3465
 #EXTINF:0 group-title="SPORTS 2", UK Sport Backup: Sky Sports Action FHD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/3468
+http://tvku.live:8888/andrew/andrew/3468
 #EXTINF:0 group-title="SPORTS 2", UK Sport Backup: Sky Sports Cricket FHD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/3469
+http://tvku.live:8888/andrew/andrew/3469
 #EXTINF:0 group-title="SPORTS 2", VN: SERIE A 1
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2777
+http://tvku.live:8888/andrew/andrew/2777
 #EXTINF:0 group-title="SPORTS 2", VN: SERIE A 2
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2778
+http://tvku.live:8888/andrew/andrew/2778
 #EXTINF:0 group-title="SPORTS 2", VN: SERIE A 3
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2779
+http://tvku.live:8888/andrew/andrew/2779
 #EXTINF:0 group-title="SPORTS 2", VN: SERIE A 5
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2780
+http://tvku.live:8888/andrew/andrew/2780
 #EXTINF:0 group-title="SPORTS 2", VN: SERIE A 7
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2781
+http://tvku.live:8888/andrew/andrew/2781
 #EXTINF:0 group-title="SPORTS 2", VN: SERIE A 8
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2782
+http://tvku.live:8888/andrew/andrew/2782
 #EXTINF:0 group-title="SPORTS 2", VN: SERIE A 6
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2783
+http://tvku.live:8888/andrew/andrew/2783
 #EXTINF:0 group-title="SPORTS 2", VN: SERIE A 4
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2784
+http://tvku.live:8888/andrew/andrew/2784
 #EXTINF:0 group-title="SPORTS 2", VN: SERIE A 9
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2785
+http://tvku.live:8888/andrew/andrew/2785
 #EXTINF:0 group-title="SPORTS 2", VN: SERIE A 10
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2786
+http://tvku.live:8888/andrew/andrew/2786
 #EXTINF:0 group-title="SPORTS 2", PT: Eleven Sports 1 HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2978
+http://tvku.live:8888/andrew/andrew/2978
 #EXTINF:0 group-title="SPORTS 2", PT: Eleven Sports 2 HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2977
+http://tvku.live:8888/andrew/andrew/2977
 #EXTINF:0 group-title="SPORTS 2", PT: Eleven Sports 3 HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2976
+http://tvku.live:8888/andrew/andrew/2976
 #EXTINF:0 group-title="SPORTS 2", PT: Eleven Sports 4 HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2975
+http://tvku.live:8888/andrew/andrew/2975
 #EXTINF:0 group-title="SPORTS 2", PT: Eleven Sports 5 HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2974
+http://tvku.live:8888/andrew/andrew/2974
 #EXTINF:0 group-title="SPORTS 2", PT: Eleven Sports 6 HD
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/2973
+http://tvku.live:8888/andrew/andrew/2973
 #EXTINF:0 group-title="SPORTS 2", True Sport HD 1
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/11189
+http://tvku.live:8888/andrew/andrew/11189
 #EXTINF:0 group-title="SPORTS 2", True Sport HD 2
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/3015
+http://tvku.live:8888/andrew/andrew/3015
 #EXTINF:0 group-title="SPORTS 2", True Sport HD 3
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/3016
+http://tvku.live:8888/andrew/andrew/3016
 #EXTINF:0 group-title="SPORTS 2", True Sport HD 4
 #EXTVLCOPT:network-caching=3000
-http://tvku.live:8888/samsung9/samsung9/11190
+http://tvku.live:8888/andrew/andrew/11190
+#EXTINF:0 group-title="SPORTS 2", HK: Now Sports Prime
+#EXTVLCOPT:network-caching=3000
+http://tvku.live:8888/andrew/andrew/3336
+
+
 
 ################################################ VOD MOVIES ####################################################
 6b6d20ea3952435b4432ee0da18b0870b9d7c361/eba463ae80c0ddc81863025f7b7c7bc9/vp63207_V20180426214432/hlsc_e2931_4.m3u8
