@@ -553,6 +553,8 @@ http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=9C3D6D1D9C2C7E17C88C34437A464C67A060160E&profile=pass
 #EXTINF:-1 tvg-id="88bc2041029adc1b4603be31339b16e4" group-title="ENTERTAINMENT",Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=8C75884AEC347CCF2698FA0D6597E19F865962E4&profile=pass
+#EXTINF:-1 group-title="ENTERTAINMENT", 8 (Ch 8)
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/axn.png" group-title="ENTERTAINMENT",AXN
 https://liveanevia.mncnow.id/live/eds/AXN/sa_hls/AXN.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/kix.png" group-title="ENTERTAINMENT",KIX
@@ -584,6 +586,8 @@ https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_hls/MNCEntertainment.m
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=79046258DC0E930E01197AF56D3D1298958EEE07&profile=pass
 #EXTINF:-1 tvg-id="abd85a3324adf620079eaf75d8051e98" group-title="24/7 WORLD NEWS",BBC World News
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=3BC2042011CC9E27D38AF0DD54FB94B6A8DF5FEC&profile=pass
+#EXTINF:-1 group-title="24/7 WORLD NEWS", Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="2e2aa78411c4131a6bd63961dec28a9c" group-title="24/7 WORLD NEWS",Bloomberg International
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=C40949788D0E2EF033DFEB68D1304EF571EFEF56&profile=pass
 #EXTINF:-1 tvg-id="1bc079cdec765f993747d5bfb7e6ffc8" group-title="INDIHOME",Blue Ant Extreme
