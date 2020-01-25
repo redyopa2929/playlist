@@ -472,32 +472,6 @@ http://id1.indostreamingtv.com/live/tvri/index.m3u8
 https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="LOKAL",TVRI HD 2
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/axn.png" group-title="Entertainment",AXN
-https://liveanevia.mncnow.id/live/eds/AXN/sa_hls/AXN.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/kix.png" group-title="Entertainment",KIX
-https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/tvn.png" group-title="Entertainment",TVN
-https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/fmn.png" group-title="Entertainment",FMN
-https://liveanevia.mncnow.id/live/eds/FMN/sa_hls/FMN.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/foxlife.png" group-title="Entertainment",FOX Life
-https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/citradrama.png" group-title="Entertainment",Citra Drama
-https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/vision.png" group-title="Entertainment",Vision Prime
-https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/egg.png" group-title="Entertainment",eGG Network
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/mncch.png" group-title="Entertainment",MNC Channel
-https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_hls/MNCChannel.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/dramach.png" group-title="Entertainment",Drama Channel
-https://liveanevia.mncnow.id/live/eds/DramaChannel/sa_hls/DramaChannel.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/comedych.png" group-title="Entertainment",Comedy Channel
-https://liveanevia.mncnow.id/live/eds/ComedyChannel/sa_hls/ComedyChannel.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/wakuwaku.png" group-title="Entertainment",WakuWaku Japan
-https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/entertain.png" group-title="Entertainment",MNC Entertainment
-https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_hls/MNCEntertainment.m3u8
 
 
 
@@ -579,6 +553,33 @@ http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=9C3D6D1D9C2C7E17C88C34437A464C67A060160E&profile=pass
 #EXTINF:-1 tvg-id="88bc2041029adc1b4603be31339b16e4" group-title="ENTERTAINMENT",Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=8C75884AEC347CCF2698FA0D6597E19F865962E4&profile=pass
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/axn.png" group-title="ENTERTAINMENT",AXN
+https://liveanevia.mncnow.id/live/eds/AXN/sa_hls/AXN.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/kix.png" group-title="ENTERTAINMENT",KIX
+https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/tvn.png" group-title="ENTERTAINMENT",TVN
+https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/fmn.png" group-title="ENTERTAINMENT",FMN
+https://liveanevia.mncnow.id/live/eds/FMN/sa_hls/FMN.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/foxlife.png" group-title="ENTERTAINMENT",FOX Life
+https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/citradrama.png" group-title="ENTERTAINMENT",Citra Drama
+https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/vision.png" group-title="ENTERTAINMENT",Vision Prime
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/egg.png" group-title="ENTERTAINMENT",eGG Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/mncch.png" group-title="ENTERTAINMENT",MNC Channel
+https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_hls/MNCChannel.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/dramach.png" group-title="ENTERTAINMENT",Drama Channel
+https://liveanevia.mncnow.id/live/eds/DramaChannel/sa_hls/DramaChannel.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/comedych.png" group-title="ENTERTAINMENT",Comedy Channel
+https://liveanevia.mncnow.id/live/eds/ComedyChannel/sa_hls/ComedyChannel.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/wakuwaku.png" group-title="ENTERTAINMENT",WakuWaku Japan
+https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/entertain.png" group-title="ENTERTAINMENT",MNC Entertainment
+https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_hls/MNCEntertainment.m3u8
+
 #EXTINF:-1 tvg-id="b72498b4f3e893f18e989457613132a6" group-title="KNOWLEDGE",AXN
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=79046258DC0E930E01197AF56D3D1298958EEE07&profile=pass
 #EXTINF:-1 tvg-id="abd85a3324adf620079eaf75d8051e98" group-title="24/7 WORLD NEWS",BBC World News
