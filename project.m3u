@@ -607,8 +607,6 @@ http://203.153.218.28:9981/stream/channelid/1151931232?ticket=2B28441BA5F75B65F8
 
 #EXTINF:-1 tvg-id="b2b8e381095ded22e60f47b7ffb1fa39" group-title="KIDS",Disney Channel
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=2E48030DF49735395AFB9F80DD6626207B1579D5&profile=pass
-#EXTINF:-1 tvg-id="562a2ef4c0816c592d34d74efc55b35f" group-title="MOVIES",FOX Family Movies
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 #EXTINF:-1,Thrill (Opt-1)
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:0 tvg-logo="http://my-hd.tv/shared/img/channels/MyCinema.png" group-title="MOVIES",MY CINEMA (SUB INDO)
@@ -630,10 +628,6 @@ http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 
 
 
-#EXTINF:-1 tvg-id="9ea370ce73cd5a22f3814b2e2ac02bbe" group-title="MOVIES",HBO Family
-http://203.207.56.228/live/iptv004.m3u8
-#EXTINF:-1 group-title="INDIHOME",HBO Family ID
-http://203.207.56.228/live/iptv004.m3u8
 
 #EXTINF:-1 group-title="24/7 WORLD NEWS",CNN
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
@@ -662,11 +656,7 @@ http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b38
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
 
 
-#EXTINF:-1 tvg-id="de8e3602ee1be5612d6121b293501f99" group-title="MOVIES",HBO HD
-http://203.207.56.228/live/iptv005.m3u8
-#EXTINF:-1 tvg-id="97187cf98cc3a3d2419955eea35c1bf5" group-title="MOVIES",HBO Hits
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
-#EXTINF:-1 tvg-id="32105947315ce3717a05d57aa09ea673" group-title="MOVIES",HBO Signature
+
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 #EXTINF:-1 tvg-id="c2c6596f8e7796a5b4ecd8ea7cde9d74" group-title="KNOWLEDGE",History Channel
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=A6B5FCF4BEA85CDC157E4CF8DAE0FE22C9FA8432&profile=pass
@@ -702,10 +692,10 @@ hhttp://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="MOVIES",Fox Movies HD [BACKUP]
-http://202.83.123.74:25461/live/Rahim/Rahim/3639.m3u8?token=QhBYV0dYRg4TDVwHB1EFUAdTAgUDAQtTWAJRAwICVQQKBAAEUFEADQYaSBAQEEJXVQhvWgIbCVYPBwkdQ0MSB0ttWVIWCkYCAg1QA0FIEkZdCFURXAkfR0ldVBNbFFBaDwsIFBgSAUxFXRZcAghvVlETWVADGwkLTFhcHUNZDz1dV11XWlRGDhMIRh5BDUNCFl9eRgpVH0dbXURDAEIEQAMQAgQMCUYYE1sLRw0QQksWXxJ6IhsfR1xMRFQPRQgNVxAKFFkDEQwTFEZbEDtCV0cRQlYHVFYXGw4SAUMaQw9YSm9VW14KUVJMDV0NFxIIFlQSH0RUXAtQQF9DPkYIBhsIEgcMBVICE0U=
+http://tvku.live:8888/client1/client1/98
 
 #EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="MOVIES",Fox Movies HD [BACKUP 2]
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=B39138F5DEF9CCED9C08D27C9766035E330AEBA3&profile=pass
+http://tvku.live:8888/client1/client1/978
 
 #EXTINF:-1,Sony Gem (Opt-1)
 http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8
@@ -713,7 +703,7 @@ http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/
 http://45.126.83.51/uq2663/h/h19/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="MOVIES",Fox Family Movies [BACKUP]
-http://103.28.148.206:25461/live/Rahim/Rahim/4830.m3u8?token=QhBYV0dYRg4TXVQDAVFVCg1WCQsDDwdUDFUFAVEPBVIJB1ZVAAEBBlQaSBAQEEJXVQhvWgIbCVEBBwAdQ0MSB0ttWVIWCkYCAg1QA0FIEkZdCFURXAkfR0ldVBNbFFNWAAIFFBgSAUxFXRZcAghvVlETWVADGwkLTFhcHUNZDz1dV11XWlRGDhMIRh5BDUNCFl9eRgpVH0dbXURDAEIEQAMQBQQGA0YYE1sLRw0QQksWXxJ6IhsfR1xMRFQPRQgNVxAKFFkDEQwTFEZbEDtCV0cRQlYHVFYXGw4SAUMaQw9YSm9VW14KUVJMDV0NFxIIFlQSH0RUXAtQQF9DPkYIBhsIEgcDAFIBE0U=
+http://tvku.live:8888/client1/client1/14994
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Fox_Action_Movies.png/revision/latest?cb=20190313090329" group-title="MOVIES",Fox Action Movies [BACKUP]
 http://203.207.56.228/live/iptv029.m3u8
@@ -722,16 +712,16 @@ http://203.207.56.228/live/iptv029.m3u8
 http://139.99.80.148:8888/live/Rahim/Rahim/1533.m3u8?token=QhBYV0dYRg4TCABXVgBRAwFUAAdSWABdCAQBVFJUBVMIAVNXBVFVBQEaSBAQEEJXVQhvWgIbCVQMBwMdQ0MSB0ttWVIWCkYCAg1QA0FIEkZdCFURXAkfR0ldVBNbFFJVDAYSGhZVHEBUSgpTDztUV0IMU1ZEA10QVVgcEw5YPgZcX1FYUBJeFgEaSBAKF0AQDgtFXwoVEQdQQEJQFVNDWBsDAQEBEkgWUlcRXBcWSRAOR3l3RBURAEFAVV8SXw4MGwgSWwdFXBYdGg1BPBZVQUAXVVILXEFHAxYAE00UDANBbVNZWl4BV0VRC1wQRgoQBUccEQtWXQxNW0JuEV8FQAMQAwQFCVUWTA==
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/4304/brand.gif?itok=H97sqIxC" group-title="MOVIES",HBO HD [BACKUP]
-http://103.28.148.206:25461/live/Rahim/Rahim/4828.m3u8?token=QhBYV0dYRg4TWVBUVlwEVgcGA1JUClBSWwMAUANSVQEPVAUCAgcFDQYaSBAQEEJXVQhvWgIbCVEBBggdQ0MSB0ttWVIWCkYCAg1QA0FIEkZdCFURXAkfR0ldVBNbFFNWDwQCFBgSAUxFXRZcAghvVlETWVADGwkLTFhcHUNZDz1dV11XWlRGDhMIRh5BDUNCFl9eRgpVH0dbXURDAEIEQAMQAgcBCEYYE1sLRw0QQksWXxJ6IhsfR1xMRFQPRQgNVxAKFFkDEQwTFEZbEDtCV0cRQlYHVFYXGw4SAUMaQw9YSm9VW14KUVJMDV0NFxIIFlQSH0RUXAtQQF9DPkYIBhsIEgcDAFANE0U=
+http://tvku.live:8888/client1/client1/4828
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="MOVIES",HBO Family [BACKUP]
-http://103.28.148.206:25461/live/Rahim/Rahim/4830.m3u8?token=QhBYV0dYRg4TCwEDVAIHCgZRVlBUCwZTDldSCFYBVgFYAAdQBAYCAAgaSBAQEEJXVQhvWgIbCVEBBwAdQ0MSB0ttWVIWCkYCAg1QA0FIEkZdCFURXAkfR0ldVBNbFFNWAAIFFBgSAUxFXRZcAghvVlETWVADGwkLTFhcHUNZDz1dV11XWlRGDhMIRh5BDUNCFl9eRgpVH0dbXURDAEIEQAMQBQQHA0YYE1sLRw0QQksWXxJ6IhsfR1xMRFQPRQgNVxAKFFkDEQwTFEZbEDtCV0cRQlYHVFYXGw4SAUMaQw9YSm9VW14KUVJMDV0NFxIIFlQSH0RUXAtQQF9DPkYIBhsIEgcDAFIBE0U=
+http://tvku.live:8888/client1/client1/4830
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES",HBO Hits [BACKUP]
-http://103.28.148.206:25461/live/Rahim/Rahim/4829.m3u8?token=QhBYV0dYRg4TCVIFB10EUAdQAAdTDVFSD1EDAwVTUFVYAVYEAAkAAVUaSBAQEEJXVQhvWgIbCVEBBgkdQ0MSB0ttWVIWCkYCAg1QA0FIEkZdCFURXAkfR0ldVBNbFFNWAAIDFBgSAUxFXRZcAghvVlETWVADGwkLTFhcHUNZDz1dV11XWlRGDhMIRh5BDUNCFl9eRgpVH0dbXURDAEIEQAMQAQENCEYYE1sLRw0QQksWXxJ6IhsfR1xMRFQPRQgNVxAKFFkDEQwTFEZbEDtCV0cRQlYHVFYXGw4SAUMaQw9YSm9VW14KUVJMDV0NFxIIFlQSH0RUXAtQQF9DPkYIBhsIEgcDAFEDE0U=
+http://tvku.live:8888/client1/client1/4829
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="MOVIES",HBO Signature
-http://103.28.148.206:25461/live/Rahim/Rahim/4831.m3u8?token=QhBYV0dYRg4TXVUCUVJWAlEGUQtXXFdWAQwGBQBUUVoJCgJQVgddBQIaSBAQEEJXVQhvWgIbCVEBBwEdQ0MSB0ttWVIWCkYCAg1QA0FIEkZdCFURXAkfR0ldVBNbFFNWDgYIFBgSAUxFXRZcAghvVlETWVADGwkLTFhcHUNZDz1dV11XWlRGDhMIRh5BDUNCFl9eRgpVH0dbXURDAEIEQAMQAQ4BBUYYE1sLRw0QQksWXxJ6IhsfR1xMRFQPRQgNVxAKFFkDEQwTFEZbEDtCV0cRQlYHVFYXGw4SAUMaQw9YSm9VW14KUVJMDV0NFxIIFlQSH0RUXAtQQF9DPkYIBhsIEgcDAFMBE0U=
+http://tvku.live:8888/client1/client1/4831
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest?cb=20160516085732" group-title="MOVIES",Red by HBO
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
@@ -759,6 +749,9 @@ http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" group-title="KIDS",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" group-title="KIDS",Disney Junior En Version
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+http://tvku.live:8888/client1/client1/4296
 #EXTINF:-1 tvg-logo="https://tbivision.com/files/2015/05/miao-logo.jpg" group-title="KIDS",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8?fluxustv.m3u8
 
@@ -1321,12 +1314,7 @@ http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8
 #EXTINF:0 group-title="VOD MOVIES", IT: Chapter Two 2019
 http://139.99.80.145/vod/TERBIT21.COM%20-%20It%20Chapter%20Two%20(2019).mp4
 
-#EXTINF:0 group-title="VOD MOVIES", The Raid 2: Berandal
-https://token-geo-id-media-vidio-com.akamaized.net/exp=1579635974~acl=/uploads/1797499/*~hmac=42962e769ce59f7de09ed175b809e3e8e85d7edacdbc282cf49c86824a56b824/uploads/1797499/ets-the-20raid-202-20edit-20convert-6aa8_3d9efc0_med-high.mp4.m3u8
 
-
-#EXTINF:0 group-title="VOD MOVIES",Bluebell
-https://token-geo-id-media-vidio-com.akamaized.net/exp=1579635463~acl=/uploads/1837234/*~hmac=b63a514d0030e8fa3774cd0f1c4017d6fbeb12685bd1319154c34d9e1a9de65e/uploads/1837234/ets-bluebell_hd-f51e_93c3baa8_med-high.mp4.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6Hb8abuuGb0A9MlZbKlswmteWwEg4amIA56i41Su148xf427i" group-title="VOD MOVIES",Si Doel The Movie
 https://cdn.clonefile.icu/drive/index.php?id=l52x4%2FdE70ZQAfzu%2BEykDA7k3Xc%2BWG148%2FvZJo2xD9OyWEWdhzSHVb4oI6BcD%2FsISBDKuz7Ey2iIaFzFIeGfHiMo863AQyf%2BU9kziSp5L%2Bk1%2FoEvCKb6LUsjBkGur93SWApcNY3fFudj9EdXdemRu9oluci27iQEPbW2RZzAcLfuCweOB%2Betm8G7uJ4okdLc4gooi5NF5ywgu%2FeOaO7jkQ&ref=https%3A%2F%2Fbos21.bid%2Fsi-doel-the-movie%2F&res=default
 
