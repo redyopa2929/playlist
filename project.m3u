@@ -709,7 +709,7 @@ http://tvku.live:8888/client1/client1/14994
 http://203.207.56.228/live/iptv029.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="MOVIES",WARNER TV HD
-http://139.99.80.148:8888/live/Rahim/Rahim/1533.m3u8?token=QhBYV0dYRg4TCABXVgBRAwFUAAdSWABdCAQBVFJUBVMIAVNXBVFVBQEaSBAQEEJXVQhvWgIbCVQMBwMdQ0MSB0ttWVIWCkYCAg1QA0FIEkZdCFURXAkfR0ldVBNbFFJVDAYSGhZVHEBUSgpTDztUV0IMU1ZEA10QVVgcEw5YPgZcX1FYUBJeFgEaSBAKF0AQDgtFXwoVEQdQQEJQFVNDWBsDAQEBEkgWUlcRXBcWSRAOR3l3RBURAEFAVV8SXw4MGwgSWwdFXBYdGg1BPBZVQUAXVVILXEFHAxYAE00UDANBbVNZWl4BV0VRC1wQRgoQBUccEQtWXQxNW0JuEV8FQAMQAwQFCVUWTA==
+http://tvku.live:8888/client1/client1/4376
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/4304/brand.gif?itok=H97sqIxC" group-title="MOVIES",HBO HD [BACKUP]
 http://tvku.live:8888/client1/client1/4828
