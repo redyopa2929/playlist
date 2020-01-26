@@ -22,6 +22,8 @@ http://id2.indostreamingtv.com/live/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",SCTV backup
+http://210.210.155.35/qwr9ew/s/s103/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
@@ -607,7 +609,7 @@ http://203.153.218.28:9981/stream/channelid/1151931232?ticket=2B28441BA5F75B65F8
 
 #EXTINF:-1 tvg-id="b2b8e381095ded22e60f47b7ffb1fa39" group-title="KIDS",Disney Channel
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=2E48030DF49735395AFB9F80DD6626207B1579D5&profile=pass
-#EXTINF:-1,Thrill (Opt-1)
+#EXTINF:-1 group-title="MOVIES",Thrill (Opt-1)
 http://tvku.live:8888/client1/client1/4
 #EXTINF:0 tvg-logo="http://my-hd.tv/shared/img/channels/MyCinema.png" group-title="MOVIES",MY CINEMA (SUB INDO)
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
