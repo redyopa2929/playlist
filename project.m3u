@@ -552,9 +552,9 @@ http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="effdd8733b4152f87f57d69579126dca" group-title="KNOWLEDGE",Animal Planet
-http://203.153.218.28:9981/stream/channelid/1943600623?ticket=9C3D6D1D9C2C7E17C88C34437A464C67A060160E&profile=pass
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000000=16-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-id="88bc2041029adc1b4603be31339b16e4" group-title="ENTERTAINMENT",Asian Food Channel
-http://203.153.218.28:9981/stream/channelid/1092664456?ticket=8C75884AEC347CCF2698FA0D6597E19F865962E4&profile=pass
+https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT", 8 (Ch 8)
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvkita.my.id/img/axn.png" group-title="ENTERTAINMENT",AXN
@@ -656,9 +656,9 @@ http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b38
 
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 #EXTINF:-1 tvg-id="c2c6596f8e7796a5b4ecd8ea7cde9d74" group-title="KNOWLEDGE",History Channel
-http://tvku.live:8888/redyopa29/rizalfirdaus29/1504?token=QhBYV0dYRg4TXVICAFcFAFEHAQRVXFUBXVJSU1cEWVQNAFQGVwcCDAAaSBAQEEJXVQhvWgIbCVEBBggdQ0MSB0ttWVIWCkYDAQ1VC0FIEkZdCFURXAgGXQkEBQFVBFBOG0JZUhYKRgcACFAAQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGAFJSABAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpVBVNQCRBJ | User-Agent=VLC
+https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-id="f1b77042d9150c7f066952c67e0f9480" group-title="KNOWLEDGE",NAT GEO People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-id="3e8d42d985fbf1e7bf8c39df9c41c34f" group-title="KNOWLEDGE",NAT GEO Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-id="9ba9a128eff02479da120a4226cd807c" group-title="KNOWLEDGE",National Geographic
@@ -1294,6 +1294,44 @@ http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8
 
 
 ================ SPORTS 2 ===================
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS", Live Sports 1
+http://stream.doball.com:8080/hls/ch1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS", Live Sports 2
+http://stream.doball.com:8080/hls/ch2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS", Live Sports 3
+http://stream.doball.com:8080/hls/ch3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS", Live Sports 4
+http://stream.doball.com:8080/hls/ch4.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS", Live Sports 5
+http://stream.doball.com:8080/hls/ch5.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS", Live Sports 6
+http://stream.doball.com:8080/hls/ch6.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS", Live Sports 7
+http://stream.doball.com:8080/hls/ch7.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS", Live Sports 8
+http://stream.doball.com:8080/hls/ch8.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS", Live Sports 9
+http://stream.doball.com:8080/hls/ch9.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS", Live Sports 10
+http://stream.doball.com:8080/hls/ch10.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS", Live Sports 11
+http://stream.doball.com:8080/hls/ch11.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS", Live Sports 12
+http://stream.doball.com:8080/hls/ch12.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmDmh6MD/useesport-1.png" group-title="SPORTS 2",Liga Indonesia 1
 https://dl.dropbox.com/s/wp7u7l4fij623m5/Usee1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBdTtFPG/useesports2.png" group-title="SPORTS 2",Liga Indonesia 2
@@ -1454,8 +1492,11 @@ http://163.172.85.133:8080/TenS/3/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6chO5x2.png" group-title="SPORTS 2",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRw_ZXacHv2djF0cScZLypnWZZYLzD3FxlBRZV-Y8etqzCZeSlb" group-title="SPORTS+",MNC Sports 1
+https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjDa_KJP2OTH1WJ4rgu5W9YVkLAhXPgJWRQVg5J8-iv_EJySKD" group-title="SPORTS+",MNC Sports 2
+https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 
 
 
