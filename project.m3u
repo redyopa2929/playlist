@@ -607,7 +607,7 @@ http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3A77BAE803C77F2618
 
 
 #EXTINF:-1 tvg-id="b2b8e381095ded22e60f47b7ffb1fa39" group-title="KIDS",Disney Channel
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=2E48030DF49735395AFB9F80DD6626207B1579D5&profile=pass
+http://tvku.live:8888/redyopa29/rizalfirdaus29/3613?token=QhBYV0dYRg4TXVICAFcFAFEHAQRVXFUBXVJSU1cEWVQNAFQGVwcCDAAaSBAQEEJXVQhvWgIbCVEBBggdQ0MSB0ttWVIWCkYDAQ1VC0FIEkZdCFURXAgGXQkEBQFVBFBOG0JZUhYKRgcACFAAQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGAFJSABAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpVBVNQCRBJ
 #EXTINF:-1 group-title="MOVIES",Thrill (Opt-1)
 http://tvku.live:8888/client1/client1/4
 #EXTINF:0 tvg-logo="http://my-hd.tv/shared/img/channels/MyCinema.png" group-title="MOVIES",MY CINEMA (SUB INDO)
@@ -732,9 +732,6 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 http://bit.ly/2DvIkGl
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KNOWLEDGE",National Geographic HD (LUAR)
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
-
 #EXTINF:-1 group-title="KIDS", NICK JR
 http://213.174.8.7:9100/index.m3u8
 
@@ -833,8 +830,6 @@ http://203.207.56.228/live/iptv014.m3u8
 #EXTINF:-1 group-title="KIDS", Nickelodeon Asia
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 
-#EXTINF:-1 group-title="KIDS", Disney Channel
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 
 #EXTINF:-1 group-title="KIDS", Disney XD
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
