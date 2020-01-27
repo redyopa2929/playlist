@@ -719,7 +719,7 @@ ps://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="MOVIES",HBO Signature
-hhttp://tvku.live:8888/client1/client1/873?token=QhBYV0dYRg4TXVICAFcFAFEHAQRVXFUBXVJSU1cEWVQNAFQGVwcCDAAaSBAQEEJXVQhvWgIbCVEBBggdQ0MSB0ttWVIWCkYDAQ1VC0FIEkZdCFURXAgGXQkEBQFVBFBOG0JZUhYKRgcACFAAQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGAFJSABAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpVBVNQCRBJ | User-Agent=VLC
+https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest?cb=20160516085732" group-title="MOVIES",Red by HBO
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
