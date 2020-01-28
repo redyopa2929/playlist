@@ -445,125 +445,154 @@ https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPla
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="LOKAL",TVRI HD 2
 
 ===========================TVKU.LIVE=========================================
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS NEWS HD
-http://185.23.213.162:8789/ania/ania/24979
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS GLOBAL HD
-http://185.23.213.162:8789/ania/ania/24980
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 1 HD
-http://185.23.213.162:8789/ania/ania/13688
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 1 BKP
-http://185.23.213.162:8789/ania/ania/13595
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 2 BKP
-http://185.23.213.162:8789/ania/ania/13687
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 2 HD
-http://185.23.213.162:8789/ania/ania/13686
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 2 BKP
-http://185.23.213.162:8789/ania/ania/13685
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 3 HD
-http://185.23.213.162:8789/ania/ania/13684
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 3 BKP
-http://185.23.213.162:8789/ania/ania/13683
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 4 HD
-http://185.23.213.162:8789/ania/ania/13682
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 4 BKP
-http://185.23.213.162:8789/ania/ania/13681
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 5 HD
-http://185.23.213.162:8789/ania/ania/13680
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 5 BKP
-http://185.23.213.162:8789/ania/ania/13679
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 6 HD
-http://185.23.213.162:8789/ania/ania/13678
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 6 BKP
-http://185.23.213.162:8789/ania/ania/13677
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 7 HD
-http://185.23.213.162:8789/ania/ania/13676
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 7 BKP
-http://185.23.213.162:8789/ania/ania/13675
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 8 HD
-http://185.23.213.162:8789/ania/ania/13674
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 8 BKP
-http://185.23.213.162:8789/ania/ania/13673
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 9 HD
-http://185.23.213.162:8789/ania/ania/13672
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 9 BKP
-http://185.23.213.162:8789/ania/ania/13587
-#EXTINF:0 group-title="BEIN BETA", |AR| BEINSPORT 10 HD
-http://185.23.213.162:8789/ania/ania/13670
-#EXTINF:0 group-title="BEIN BETA", |AR| BEINSPORT 10 BKP
-http://185.23.213.162:8789/ania/ania/13669
-#EXTINF:0 group-title="BEIN BETA", |AR| BEINSPORT 11 HD
-http://185.23.213.162:8789/ania/ania/24977
-#EXTINF:0 group-title="BEIN BETA", |AR| BEINSPORTS HD13
-http://185.23.213.162:8789/ania/ania/21202
-#EXTINF:0 group-title="BEIN BETA", |AR| BEINSPORTS HD14
-http://185.23.213.162:8789/ania/ania/21201
-#EXTINF:0 group-title="BEIN BETA", |AR| BEINSPORTS HD15
-http://185.23.213.162:8789/ania/ania/21200
-#EXTINF:0 group-title="BEIN BETA", |AR| BEINSPORTS HD16
-http://185.23.213.162:8789/ania/ania/21199
-#EXTINF:0 group-title="BEIN BETA", |AR| BEINSPORTS HD17
-http://185.23.213.162:8789/ania/ania/21198
-#EXTINF:0 group-title="BEIN BETA", |AR|****BEINSPORT FHD ****|AR|
-http://185.23.213.162:8789/ania/ania/24981
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 1 FHD
-http://185.23.213.162:8789/ania/ania/13611
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 2 FHD
-http://185.23.213.162:8789/ania/ania/13610
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 3 FHD
-http://185.23.213.162:8789/ania/ania/13609
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 4 FHD
-http://185.23.213.162:8789/ania/ania/13608
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 5 FHD
-http://185.23.213.162:8789/ania/ania/13607
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 6 FHD
-http://185.23.213.162:8789/ania/ania/13606
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 7 FHD
-http://185.23.213.162:8789/ania/ania/13605
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 8 FHD
-http://185.23.213.162:8789/ania/ania/13604
-#EXTINF:0 group-title="BEIN BETA", |AR| BEIN SPORTS 9 FHD
-http://185.23.213.162:8789/ania/ania/13603
-#EXTINF:0 group-title="BEIN BETA", |AR| BEINSPORT 10 FHD
-http://185.23.213.162:8789/ania/ania/13602
-#EXTINF:0 group-title="BEIN BETA", |FR| BEIN SPORT 1 (SD)
-http://185.23.213.162:8789/ania/ania/39499
-#EXTINF:0 group-title="BEIN BETA", |FR| BEIN SPORT 2(SD)
-http://185.23.213.162:8789/ania/ania/39498
-#EXTINF:0 group-title="BEIN BETA", |FR| BEIN SPORT 3 (SD)
-http://185.23.213.162:8789/ania/ania/39497
-#EXTINF:0 group-title="BEIN BETA", |FR| BEINSPORTS 1 FHD
-http://185.23.213.162:8789/ania/ania/14160
-#EXTINF:0 group-title="BEIN BETA", |FR| BEINSPORTS 1 HD
-http://185.23.213.162:8789/ania/ania/28941
-#EXTINF:0 group-title="BEIN BETA", |FR| BEINSPORT 1 SD
-http://185.23.213.162:8789/ania/ania/92
-#EXTINF:0 group-title="BEIN BETA", |FR| BEINSPORTS 2 F.HD
-http://185.23.213.162:8789/ania/ania/14159
-#EXTINF:0 group-title="BEIN BETA", |FR| BEINSPORTS 2 HD
-http://185.23.213.162:8789/ania/ania/28943
-#EXTINF:0 group-title="BEIN BETA", |FR| BEINSPORT 2 SD
-http://185.23.213.162:8789/ania/ania/93
-#EXTINF:0 group-title="BEIN BETA", |FR| BEINSPORTS 3 F.HD
-http://185.23.213.162:8789/ania/ania/14158
-#EXTINF:0 group-title="BEIN BETA", |FR| BEINSPORTS 3 HD
-http://185.23.213.162:8789/ania/ania/14163
-#EXTINF:0 group-title="BEIN BETA", |FR| BEINSPORT 3 SD
-http://185.23.213.162:8789/ania/ania/94
-#EXTINF:0 group-title="BEIN BETA", |FR| BEINSPORT MAX 4
-http://185.23.213.162:8789/ania/ania/95
-#EXTINF:0 group-title="BEIN BETA", |FR| BEINSPORT MAX 5
-http://185.23.213.162:8789/ania/ania/39882
-#EXTINF:0 group-title="BEIN BETA", |FR| BEINSPORT MAX 6
-http://185.23.213.162:8789/ania/ania/1089
-#EXTINF:0 group-title="BEIN BETA", |FR| BEINSPORT MAX 7
-http://185.23.213.162:8789/ania/ania/1113
-#EXTINF:0 group-title="BEIN BETA", |FR| BEINSPORT MAX 8
-http://185.23.213.162:8789/ania/ania/1468
-#EXTINF:0 group-title="BEIN BETA", |FR| BEINSPORT MAX 9
-http://185.23.213.162:8789/ania/ania/1469
-#EXTINF:0 group-title="BEIN BETA", |FR| BEIN SPORT MAX 10
-http://185.23.213.162:8789/ania/ania/1470
-
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 9 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55887.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 8 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55888.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 7 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55889.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 6 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55890.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 5 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55891.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 4 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55892.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 3 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55893.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 2 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55894.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 13 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55895.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 12 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55896.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 11 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55897.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 10 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55898.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 1 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55899.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN SPorts
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55900.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: Bein Sport HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55865.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR VIP: Bein Sport 9 HD (Backup)
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58688.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BEIN SPORT (Backup2) HD 5
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58017.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BEIN SPORT (Backup2) HD 1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58016.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BEIN SPORT (Backup2) 8 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58015.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR VIP: Bein Sport 8 HD (Backup)
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57604.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR VIP: Bein Sport 7 HD (Backup)
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57603.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR VIP: Bein Sport 4 HD (Backup)
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57600.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR VIP: Bein Sport 3 HD (Backup)
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57599.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR VIP: Bein Sport 2 HD (Backup)
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57598.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR VIP: Bein Sport 10 HD (Backup)
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57595.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR VIP: Bein Sport 1 HD (Backup)
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57594.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: Bein Sport News
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56071.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BEIN SPORT (Backup2) HD 7
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56137.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BEIN SPORT (Backup2) HD 6
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56136.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BEIN SPORT (Backup2) HD 4
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56134.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BEIN SPORT (Backup2) HD 3
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56133.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BEIN SPORT (Backup2) HD 2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56132.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BEIN SPORT (Backup2) 9 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56130.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BEIN SPORT (Backup2) 10 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56128.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: Bein NBA HD
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 9 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55887.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 8 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55888.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 7
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55889.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 6 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55890.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 5 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55891.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 4 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55892.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 3 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55893.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 2 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55894.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 13 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55895.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 12 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55896.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 11 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55897.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 10 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55898.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN Sports 1 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55899.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: beIN SPorts
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55900.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR: Bein Sport HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/55865.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR VIP: Bein Sport 9 HD (Backup)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58688.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BEIN SPORT (Backup2) HD 5
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58017.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BEIN SPORT (Backup2) HD 1
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58016.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BEIN SPORT (Backup2) 8
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58015.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BeIN Movies 2HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58013.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR VIP: Bein Sport 6 HD (Backup)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58687.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR VIP: Bein Sport 5 HD (Backup)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58686.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR VIP: Bein Sport 12 HD (Backup)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58685.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR VIP: Bein Sport 11 HD (Backup)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58684.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR VIP: Bein Sport 8 HD (Backup)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57604.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR VIP: Bein Sport 7 HD (Backup)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57603.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR VIP: Bein Sport 4 HD (Backup)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57600.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR VIP: Bein Sport 3 HD (Backup)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57599.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR VIP: Bein Sport 2 HD (Backup)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57598.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR VIP: Bein Sport 10 HD (Backup)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57595.ts
+#EXTINF:-1 group-title="BEIIN BETA"AR VIP: Bein Sport 1 HD (Backup)
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/57594.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: Bein Sport News
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/56071.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BEIN SPORT (Backup2) HD 7
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/56137.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BEIN SPORT (Backup2) HD 6
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/56136.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BEIN SPORT (Backup2) HD 4
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/56134.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BEIN SPORT (Backup2) HD 3
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/56133.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BEIN SPORT (Backup2) HD 2
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/56132.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BEIN SPORT (Backup2) 9 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/56130.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: BEIN SPORT (Backup2) 10 HD
+http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/56128.ts
+#EXTINF:-1 group-title="BEIIN BETA"VIP AR: Bein NBA HD
 ===========================TVKU.LIVE========================================
 #update cctv
 #EXTM3U
