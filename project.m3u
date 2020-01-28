@@ -1821,7 +1821,233 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 
 ################################################ VOD MOVIES ####################################################
 
-
+#EXTINF:0 group-title="VOD MOVIES", 5 Flights Up
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/5.Flights.Up.2014.1080p.BluRay.x264-%5bYTS.LT%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", A Day
+http://139.99.80.145/vod/A%20Day%202017%201080p%20BluRay%20x264.mkv
+#EXTINF:0 group-title="VOD MOVIES", A Dog's Journey
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/A.Dog's.Journey.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", A Fantastic Woman
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/A.Fantastic.Woman.2017.1080p.BluRay.x264-%5bYTS.AM%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", A Fistful of Lead
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/A%20Fistful%20Of%20Lead%20%282018%29%20Subtitle%20Indonesia%20-%20INDOXXI.id.mkv
+#EXTINF:0 group-title="VOD MOVIES", A Gentle Breeze in the Village
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/A.Gentle.Breeze.In.The.Village.2007.1080p.BluRay.x264-%5bYTS.LT%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Acts of Vengeance
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Acts.Of.Vengeance.2017.1080p.WEBRip.x264-%5bYTS.LT%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Ad Astra (CAM)
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/TERBIT21.COM%20-%20Ad%20Astra%20%282019%29.mp4
+#EXTINF:0 group-title="VOD MOVIES", Alita: Battle Angel
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/%5bTV%5d%20Alita.Battle.Angel.2019.WEBDL.PROPER.ITUNES.EVO.1080p.720p.480p.WWW.SEBUAH-DONGENG.COM.mkv
+#EXTINF:0 group-title="VOD MOVIES", Along with the Gods: The Last 49 Days
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Along%20with%20the%20Gods%202%20-%20The%20Last%2049%20Days.mkv
+#EXTINF:0 group-title="VOD MOVIES", American Assassin
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/American%20Assassin.mkv
+#EXTINF:0 group-title="VOD MOVIES", American Dreamer
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/American.Dreamer.2018.1080p.WEB-DL.H264.AC3-EVO.mkv
+#EXTINF:0 group-title="VOD MOVIES", American Hangman
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/American.Hangman.2018.1080p.WEBRip.x264-%5bYTS.AM%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", American Mary
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/American%20Mary%20%5b2012%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Amy
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Amy.2015.1080p.BluRay.x264.%5bYTS.AG%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", An Interview with God
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/An.Interview.with.God.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv
+#EXTINF:0 group-title="VOD MOVIES", Anacondas: The Hunt for the Blood Orchid
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Anacondas.Hunt.For.The.Blood.Orchid.2004.Bluray.720p.1080p.Indonesia.mkv
+#EXTINF:0 group-title="VOD MOVIES", Anastasia
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Anastasia%20%5b1997%5d%5bDVDRip%5d%5b720x304%5d%5bH.264-AAC%5d%20~SaaS~%5bWHITE%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Angel of Mine
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Angel.Of.Mine.2019.720p.WEB-DL.H264.AC3-EVO.mkv
+#EXTINF:0 group-title="VOD MOVIES", Anna and the Apocalypse
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Anna.And.The.Apocalypse.2017.1080p.WEBRip.x264-%5bYTS.AM%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Annabelle
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Annabelle.2014.1080p.BluRay.x264.YIFY.mkv
+#EXTINF:0 group-title="VOD MOVIES", Annabelle: Creation
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Annabelle.Creation.2017.1080p.BluRay.x264-%5bYTS.AG%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Apollo 11
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/%5bTV%5d%20Apollo.11.2019.All.Bluray-Captain_Cold.mkv
+#EXTINF:0 group-title="VOD MOVIES", Avengement
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/%5bTV%5d%20Avengement.2019.WEB-DL.WEBRip.HDRip.720p.480p.1080p.WWW.SEBUAH-DONGENG.COM.mkv
+#EXTINF:0 group-title="VOD MOVIES", Avengers: Age of Ultron
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.YIFY.mkv
+#EXTINF:0 group-title="VOD MOVIES", Avengers: Endgame
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/TERBIT21.COM%20-%20Avengers_%20Endgame%20%282019%29.mp4
+#EXTINF:0 group-title="VOD MOVIES", Avengers: Infinity War
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Avengers.Infinity.War.2018.1080p.WEBRip.x264-%5bYTS.AM%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Awake
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Awake.2019.1080p.BluRay.H264.AAC-RARBG.mkv
+#EXTINF:0 group-title="VOD MOVIES", Baahubali 2: The Conclusion
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Baahubali%202%20-%20The%20Conclusion.mkv
+#EXTINF:0 group-title="VOD MOVIES", Baby Driver
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/%5bLENGKAP%5dBaby.Driver.2017.All.WEB-DL.by.Lebah.Jelek.mkv
+#EXTINF:0 group-title="VOD MOVIES", Back Roads
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Back.Roads.2018.720p.WEB-DL.XviD.AC3-FGT.mkv
+#EXTINF:0 group-title="VOD MOVIES", Bad Cat
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Bad%20Cat.mkv
+#EXTINF:0 group-title="VOD MOVIES", Barbie in the Pink Shoes
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Barbie.in.the.Pink.Shoes.2013.1080p.BRrip.x264.GAZ.mp4
+#EXTINF:0 group-title="VOD MOVIES", Batman
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/2.%20Batman%20(1989)%20BluRay.mkv
+#EXTINF:0 group-title="VOD MOVIES", Batman Forever
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Batman.Forever.1995.1080p.BluRay.x264.YIFY.mkv
+#EXTINF:0 group-title="VOD MOVIES", Batman Ninja
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Batman.Ninja.2018.1080p.BluRay.x264-%5bYTS.AM%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Batman: Gotham by Gaslight
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Batman.Gotham.By.Gaslight.2018.1080p.BluRay.x264-%5bYTS.AM%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Batman: Hush
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Batman%20Hush%20%282019%29%20%5bWEB-DL%20x264%20Pahe.in%5d%5bIndonesian%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Batman: The Dark Knight Returns (Deluxe Edition)
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Batman.The.Dark.Knight.2008.1080p.BluRay.x264.YIFY.mkv
+#EXTINF:0 group-title="VOD MOVIES", Battle of Surabaya
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Batman.The.Dark.Knight.2008.1080p.BluRay.x264.YIFY.mkv
+#EXTINF:0 group-title="VOD MOVIES", Battle of the Sexes
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Battle.Of.The.Sexes.2017.1080p.BluRay.x264-%5bYTS.AG%5d%20%281%29.mkv
+#EXTINF:0 group-title="VOD MOVIES", Be with You
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Be.With.You.2018.1080p.BluRay.x264-%5bYTS.AM%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Beasts of the Southern Wild
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/BeastOfTheSoutherWild.DVDRip.sparks.mkv
+#EXTINF:0 group-title="VOD MOVIES", Beauty and the Beast
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/BeastOfTheSoutherWild.DVDRip.sparks.mkv
+#EXTINF:0 group-title="VOD MOVIES", Begin Again
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Begin.Again.2013.720p.BluRay.x264-SPARKS-YIFY%20Id.mkv
+#EXTINF:0 group-title="VOD MOVIES", Bel Canto
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Bel.Canto.2018.720p.WEB-DL.DD5.1.H264-CMRG.mkv
+#EXTINF:0 group-title="VOD MOVIES", Belok Kanan Barcelona
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/TERBIT21.COM%20-%20Belok%20Kanan%20Barcelona%20%282018%29.mp4
+#EXTINF:0 group-title="VOD MOVIES", Big Hero 6
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Big.Hero.6.2014.1080p.BluRay.x264.YIFY.mkv
+#EXTINF:0 group-title="VOD MOVIES", Birds of Passage
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Birds.Of.Passage.2018.1080p.BluRay.x264-%5bYTS.AM%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Bisikan Iblis
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Bisikan%20Iblis.mp4
+#EXTINF:0 group-title="VOD MOVIES", Bisikan Iblis
+#EXTVLCOPT:network-caching=3000
+http://tvku.live:8888/movie/redyopa29/rizalfirdaus29/3904.mp4
+#EXTINF:0 group-title="VOD MOVIES", Black Panther
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Black.Panther.2018.720p.BRRip.HAJIME-IDFL.ME-SC.mkv
+#EXTINF:0 group-title="VOD MOVIES", Black Wake
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Black.Wake.2018.1080p.WEBRip.x264-%5bYTS.AM%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Blue Spring
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Blue.Spring.2001.720p.Bluray.id-A.Mussoullini.mkv
+#EXTINF:0 group-title="VOD MOVIES", Boarding School
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Boarding.School.2018.1080p.WEBRip.x264-%5bYTS.AM%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Bohemian Rhapsody
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Bohemian.Rhapsody.2018.1080p.WEBRip.x264-%5bYTS.AM%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Bone Tomahawk
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Bone.Tomahawk.2015.720p.WEB-DL.900MB.Ganool.ag.mkv	
+#EXTINF:0 group-title="VOD MOVIES", Boy Erased
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Boy.Erased.2018.1080p.WEBRip.x264-%5bYTS.AM%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Boyne Falls
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Breathe.2017.720p.BluRay.x264-DRONES.mkv
+#EXTINF:0 group-title="VOD MOVIES", Breaker
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Breaker.2019.1080p.WEB-DL.H264.AC3-EVO.mkv
+#EXTINF:0 group-title="VOD MOVIES", Breaker
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Breaker.2019.1080p.WEB-DL.H264.AC3-EVO.mkv
+#EXTINF:0 group-title="VOD MOVIES", Brexit: The Uncivil War
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Brexit.2019.1080p.WEBRip.x264-%5bYTS.AM%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Bukan Pocong Biasa
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/TERBIT21.COM%20-%20Bukan%20pocong%20biasa%20%282011%29.mp4
+#EXTINF:0 group-title="VOD MOVIES", Bukti
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/bukti%20surat%20cinta%20dari%20starla.mp4
+#EXTINF:0 group-title="VOD MOVIES", Bumblebee
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Bumblebee.2018.1080p.WEBRip.x264-%5bYTS.AM%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Burn
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Burn.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Burn Your Maps
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/03.Burn.Your.Maps.2016.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.%28POLOS%29.mkv
+#EXTINF:0 group-title="VOD MOVIES", Bushwick
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Bushwick.2017.1080p.BluRay.x264-%5bYTS.AG%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Camp Rock
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Camp.Rock.2008.1080p.BluRay.x264-%5bYTS.AM%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Can You Keep a Secret?
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Can.You.Keep.A.Secret..2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Captain America: Civil War
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/%5bVERSI%20REVISI%5d%20Captain-America-Civil-War-2016-All-BluRay-480p-720p-1080p-GANOOL-PAHE-AMIABLE.mkv
+#EXTINF:0 group-title="VOD MOVIES", Captain America: The Winter Soldier
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Captain.America.The.Winter.Soldier.2014.1080p.720p.ALL.BLURAY.mkv
+#EXTINF:0 group-title="VOD MOVIES", Captain Marvel
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/TERBIT21.COM%20-%20Captain%20Marvel%20%282019%29.mp4
+#EXTINF:0 group-title="VOD MOVIES", Captain Phillips
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Captain.Phillips.2013.1080p.BluRay.x264.YIFY.mkv
+#EXTINF:0 group-title="VOD MOVIES", Cars 3
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Cars.3.2017.1080p.BluRay.x264-%5bYTS.AG%5d.mkv
+#EXTINF:0 group-title="VOD MOVIES", Cashback
+#EXTVLCOPT:network-caching=3000
+http://139.99.80.145/vod/Cashback.2006.1080p.BluRay.x264-%5bYTS.AM%5d.mkv
 
 #EXTINF:0 group-title="VOD MOVIES", 100 Acres of Hell
 #EXTVLCOPT:network-caching=3000
