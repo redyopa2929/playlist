@@ -721,6 +721,7 @@ http://stream1.ninmedia.tv/rbtv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",DMI TV
 http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",SALINGSAPA
 http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
 
