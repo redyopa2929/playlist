@@ -890,6 +890,7 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest?cb=20160516085732" group-title="MOVIES",Red by HBO
 http://tvku.live:8888/client1/client1/4832?token=QhBYV0dYRg4TXVICAFcFAFEHAQRVXFUBXVJSU1cEWVQNAFQGVwcCDAAaSBAQEEJXVQhvWgIbCVEBBggdQ0MSB0ttWVIWCkYDAQ1VC0FIEkZdCFURXAgGXQkEBQFVBFBOG0JZUhYKRgcACFAAQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGAFJSABAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpVBVNQCRBJ | User-Agent: VLC/3.0.0-git LibVLC/3.0.0-git
 
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",First Movie
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
