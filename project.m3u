@@ -1213,21 +1213,6 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 
 
 
-
-
-
-#EXTINF:0,beIN Sport 1 alt
-https://indiku.uk.to/pp/ok.m3u8?ch=bein1
-#EXTINF:0,beIN Sport 2 alt	
-https://indiku.uk.to/pp/ok.m3u8?ch=bein2
-#EXTINF:0,beIN Sport 3 alt
-https://indiku.uk.to/pp/ok.m3u8?ch=bein3
-
-
-
-
-
-
 #EXTINF:-1 group-title="SPORTS", Golf Channel FHD
 http://tvku.live:8888/client1/client1/561?token=QhBYV0dYRg4TXVICAFcFAFEHAQRVXFUBXVJSU1cEWVQNAFQGVwcCDAAaSBAQEEJXVQhvWgIbCVEBBggdQ0MSB0ttWVIWCkYDAQ1VC0FIEkZdCFURXAgGXQkEBQFVBFBOG0JZUhYKRgcACFAAQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGAFJSABAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpVBVNQCRBJ | User-Agent: VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="SPORTS", BeIN Sport 1 ID
