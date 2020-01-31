@@ -933,8 +933,7 @@ http://rr1.dens.tv/h/h02/index.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" group-title="KIDS",Disney Junior En Version
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-http://tvku.live:8888/client1/client1/4296
+http://tvku.live:8888/client1/client1/4296?token=QhBYV0dYRg4TXVICAFcFAFEHAQRVXFUBXVJSU1cEWVQNAFQGVwcCDAAaSBAQEEJXVQhvWgIbCVEBBggdQ0MSB0ttWVIWCkYDAQ1VC0FIEkZdCFURXAgGXQkEBQFVBFBOG0JZUhYKRgcACFAAQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGAFJSABAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpVBVNQCRBJ | User-Agent: VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-logo="https://tbivision.com/files/2015/05/miao-logo.jpg" group-title="KIDS",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8?fluxustv.m3u8
 
@@ -1747,4 +1746,5 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 
 
 ################################################ VOD MOVIES ####################################################
-
+#EXTINF:-1 tvg-logo="https://fanart.tv/detailpreview/fanart/movies/416144/movieposter/hotel-mumbai-5d009bdc9e9c0.jpg" group-title="VOD MOVIES", HOTEL MUMBAI
+https://www.dropbox.com/s/9ykdbxpvi4zisla/hotelmumbai.mp4?dl=0
